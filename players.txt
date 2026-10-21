@@ -1,0 +1,4 @@
+# Un giocatore per riga (i tuoi in rosa). Genera docs/feed-miei.xml
+# Righe che iniziano con # vengono ignorate.
+Victor Wembanyama
+Nikola Jokić
