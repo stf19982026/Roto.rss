@@ -21,7 +21,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 
 URL = "https://www.nbcsports.com/fantasy/basketball/player-news"
 BASE = Path(__file__).resolve().parent
@@ -45,17 +45,24 @@ def clean(text: str) -> str:
     return re.sub(r"\s+", " ", text or "").strip()
 
 
-def find_container(h3):
-    """Risale dall'h3 (titolo news) fino al blocco che contiene anche l'h2 col giocatore."""
-    node = h3.parent
-    for _ in range(8):
-        if node is None:
-            return None
-        h2 = node.find("h2")
-        if h2 and h2.find("a", href=PLAYER_HREF):
-            return node
-        node = node.parent
-    return None
+TEAM_RE = re.compile(
+    r"\b([A-Z]{2,4})\s+(?:Point Guard|Shooting Guard|Small Forward|Power Forward|"
+    r"Guard|Forward|Center|Head Coach|Coach|General Manager|Owner)"
+)
+STOP_RE = re.compile(r"^(Source:|More .+ News$|Link copied|Personalize your)")
+
+
+def strings_between(start, stop_names=("h2", "h3")):
+    """Testi (in ordine) dopo `start` fino al prossimo h2/h3."""
+    out = []
+    for el in start.next_elements:
+        if getattr(el, "name", None) in stop_names:
+            break
+        if type(el) is NavigableString and start not in el.parents:
+            t = clean(el)
+            if t and el.parent.name not in ("script", "style", "noscript"):
+                out.append((t, el))
+    return out
 
 
 def parse(html: str):
@@ -65,49 +72,44 @@ def parse(html: str):
         headline = clean(h3.get_text(" "))
         if len(headline) < 25:
             continue
-        box = find_container(h3)
-        if box is None:
-            continue
 
-        a_player = box.find("h2").find("a", href=PLAYER_HREF)
+        # giocatore = l'h2 più vicino PRIMA del titolo
+        h2 = h3.find_previous("h2")
+        a_player = h2.find("a", href=True) if h2 else None
+        if not a_player or "/nba/" not in a_player["href"]:
+            continue
         player = clean(a_player.get_text(" "))
         player_url = a_player["href"]
         if player_url.startswith("/"):
             player_url = "https://www.nbcsports.com" + player_url
 
-        # squadra: primo link a /nba/<team> nel blocco (es. "POR Center #9")
+        # squadra: testo tra nome e titolo, es. "POR Center #9"
         team = ""
-        team_line = box.find(string=re.compile(r"\b[A-Z]{2,3}\b\s+(Guard|Forward|Center|Point|Shooting|Small|Power)"))
-        if team_line:
-            team = clean(team_line).split(" ")[0]
+        m = TEAM_RE.search(" ".join(t for t, _ in strings_between(h2)))
+        if m:
+            team = m.group(1)
 
-        # commento: primo testo lungo che segue il titolo
-        body, author = "", ""
-        for el in h3.find_all_next():
-            if el.name in ("h2", "h3"):
+        # commento, categoria e fonte: testi dopo il titolo, in ordine
+        body_parts, category, source = [], "", ""
+        after = strings_between(h3)
+        for i, (t, node) in enumerate(after):
+            if t in CATEGORIES:
+                category = t
+                continue
+            if t.startswith("Source:"):
+                rest = t[len("Source:"):].strip()
+                source = rest or (after[i + 1][0] if i + 1 < len(after) else "")
                 break
-            if el.name in ("p", "div", "span") and not el.find(["p", "div"]):
-                t = clean(el.get_text(" "))
-                if len(t) > 60:
-                    body = t
-                    break
-        m = re.search(r"\s-\s([A-Z][\w.'’ -]+)$", body)
+            if STOP_RE.match(t):
+                break
+            if not category:  # il commento sta prima della categoria
+                body_parts.append(t)
+        body = clean(" ".join(body_parts))
+        author = ""
+        m = re.search(r"\s[-–]\s*([A-Z][\w.'’ -]+)$", body)
         if m:
             author = m.group(1).strip()
             body = body[: m.start()].strip()
-
-        category = ""
-        for s in box.find_all(string=True):
-            if clean(s) in CATEGORIES:
-                category = clean(s)
-                break
-
-        source = ""
-        src = box.find(string=re.compile(r"^\s*Source:"))
-        if src:
-            a = src.find_next("a")
-            if a:
-                source = clean(a.get_text(" "))
 
         guid = hashlib.sha1(f"{player}|{headline}".encode()).hexdigest()[:16]
         items.append(
@@ -197,6 +199,12 @@ def main(html_file=None):
         r = requests.get(URL, headers=HEADERS, timeout=30)
         r.raise_for_status()
         html = r.text
+
+    # copia della pagina (una volta sola) per diagnosi se la struttura cambia
+    OUT_DIR.mkdir(exist_ok=True)
+    dbg = OUT_DIR / "page.html"
+    if not html_file and not dbg.exists():
+        dbg.write_text(html, encoding="utf-8")
 
     new = parse(html)
     if not new:
