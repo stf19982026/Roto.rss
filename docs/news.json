@@ -1,5 +1,53 @@
 [
  {
+  "id": "a0a2229f90d4aa8b",
+  "player": "Micah Potter",
+  "team": "POR",
+  "headline": "Micah Potter (illness) is available for Wednesday’s game against the Suns.",
+  "body": "Potter has been dealing with an illness, but was trending in the right direction today and has been ruled in for matchup with the Suns. As merely a depth option for the Trail Blazers, Potter is unlikely to play significant minutes Wednesday.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/micah-potter/11194/news",
+  "pubDate": "Thu, 22 Oct 2026 01:26:15 +0000"
+ },
+ {
+  "id": "d252cb88d721b4e8",
+  "player": "Deni Avdija",
+  "team": "POR",
+  "headline": "Deni Avdija (ankle) will start against Suns.",
+  "body": "Deni will give it a go and start in the Blazers first game of the season. He’s looking to build upon his All-Star season last year and lead the Blazers back to the playoffs.",
+  "author": "",
+  "category": "",
+  "source": "Jason Quick",
+  "link": "https://www.nbcsports.com/nba/deni-avdija/10994/news",
+  "pubDate": "Thu, 22 Oct 2026 01:26:15 +0000"
+ },
+ {
+  "id": "b3382e8bf2af3dd1",
+  "player": "Tari Eason",
+  "team": "HOU",
+  "headline": "Tari Eason was ejected from Wednesday’s game against the Mavericks after being assessed a Flagrant 2 foul.",
+  "body": "Due to his decision to push Mavericks forward P.J. Washington, Eason played just three minutes in Wednesday’s opener before receiving his marching orders. The Rockets forward finished with two points (1-of-2 FGs), one rebound and one steal.",
+  "author": "Raphielle Johnson",
+  "category": "Recap",
+  "source": "Varun Shankar",
+  "link": "https://www.nbcsports.com/nba/tari-eason/11278/news",
+  "pubDate": "Thu, 22 Oct 2026 01:26:15 +0000"
+ },
+ {
+  "id": "4bffe1dfcce62405",
+  "player": "Stephen Curry",
+  "team": "GSW",
+  "headline": "Stephen Curry (ankle) is available for Wednesday’s game against the Lakers.",
+  "body": "No surprise here as Curry was listed as probable with an ankle injury. The 38-year-old point guard appeared to suffer the injury during Sunday’s open practice. Curry’s now officially good to go for the season opener against the Lakers.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/stephen-curry/9693/news",
+  "pubDate": "Thu, 22 Oct 2026 01:26:15 +0000"
+ },
+ {
   "id": "9bb9b93ad8162906",
   "player": "Isaiah Jackson",
   "team": "LAC",
