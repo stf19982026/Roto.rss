@@ -1,5 +1,53 @@
 [
  {
+  "id": "5a1c37bff6456a65",
+  "player": "Jake LaRavia",
+  "team": "LAL",
+  "headline": "Jake LaRavia (ankle) is out for Friday’s game against the Clippers.",
+  "body": "LaRavia was initially listed as questionable, but it should be no surprise that he’s been ruled out Friday after he sprained his right ankle in Wednesday’s win over the Warriors. The good news is that the injury isn’t considered serious and he should return to game action soon. Without LaRavia, Quentin Grimes could see enough minutes off the bench to be worth steaming consideration in category leagues.",
+  "author": "Nick Shlain Quentin Grimes",
+  "category": "",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/jake-laravia/11306/news",
+  "pubDate": "Fri, 23 Oct 2026 20:39:20 +0000"
+ },
+ {
+  "id": "4545b0dbb610b74a",
+  "player": "Brandin Podziemski",
+  "team": "GSW",
+  "headline": "Brandin Podziemski (back) is probable for Friday’s game against the Grizzlies.",
+  "body": "Podziemski is trending in the right direction after he was initially listed as questionable with a back ailment. He missed Wednesday’s loss against the Lakers with the same injury. Now that he’s been upgraded to probable, Podziemski, who appeared in all 82 games last season, should start alongside Stephen Curry against the Grizzlies Friday.",
+  "author": "Nick Shlain",
+  "category": "",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/brandin-podziemski/169522/news",
+  "pubDate": "Fri, 23 Oct 2026 20:39:20 +0000"
+ },
+ {
+  "id": "3c286a6736004faa",
+  "player": "Malik Monk",
+  "team": "SAC",
+  "headline": "Malik Monk (ankle) is available for Friday’s game against the Trail Blazers.",
+  "body": "Monk missed Wednesday’s loss to the Clippers, but was initially listed as probable for Friday’s tilt with the Trail Blazers. He’s since been upgraded to available and will play in tonight’s home opener. Monk should assume his typical role as a reserve guard for the Kings.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "Matt George",
+  "link": "https://www.nbcsports.com/nba/malik-monk/10577/news",
+  "pubDate": "Fri, 23 Oct 2026 20:39:20 +0000"
+ },
+ {
+  "id": "84cb24594765ddf7",
+  "player": "Charles Bassey",
+  "team": "GSW",
+  "headline": "Charles Bassey (knee) is out for Friday’s game against the Grizzlies.",
+  "body": "Bassey will miss a second consecutive game as he continues to deal with patellar tendinitis in his right knee. Draymond Green started at center for Wednesday’s loss to the Lakers, and he may be asked to do the same against Memphis.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/charles-bassey/11145/news",
+  "pubDate": "Fri, 23 Oct 2026 20:39:20 +0000"
+ },
+ {
   "id": "a3d490f13327aa8c",
   "player": "Trevon Brazile",
   "team": "DEN",
