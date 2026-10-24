@@ -1,5 +1,41 @@
 [
  {
+  "id": "c473df9ea52d3eb7",
+  "player": "Jose Alvarado",
+  "team": "NYK",
+  "headline": "Jose Alvarado (ankle) is questionable for Sunday’s game against the Magic.",
+  "body": "Alvarado, who played 11 minutes in Friday’s loss to the Celtics, is dealing with a sprained left ankle. If he can’t play, his absence would hurt the Knicks’ rotation more than fantasy basketball. Tyler Kolek could slide into the back end of the rotation, but he’s unlikely to get the minutes needed to merit being streamed in fantasy leagues.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jose-alvarado/11182/news",
+  "pubDate": "Sat, 24 Oct 2026 21:37:21 +0000"
+ },
+ {
+  "id": "7b901364ae3db132",
+  "player": "Patrick Williams",
+  "team": "CHI",
+  "headline": "Patrick Williams (groin) is questionable for Saturday’s game against the Wizards.",
+  "body": "Williams, a DNP-CD in Chicago’s first two games of the season, is on the injury report with right adductor/groin soreness and tightness. His availability won’t affect fantasy basketball, as he hasn’t been in head coach Tiago Splitter’s rotation.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/patrick-williams/11011/news",
+  "pubDate": "Sat, 24 Oct 2026 21:37:21 +0000"
+ },
+ {
+  "id": "b260dd5657bf340d",
+  "player": "Noa Essengue",
+  "team": "CHI",
+  "headline": "Noa Essengue (head) is now questionable to play against the Wizards on Saturday.",
+  "body": "Essengue was initially listed as probable for this game, but his status has been downgraded. Patrick Williams (groin) has been added to the injury report as questionable, though he would be in line for extra minutes if he plays and Essengue doesn’t. Rookie Dailyn Swain is another option to take on more minutes if both Essengue and Williams are out.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/noa-essengue/277180/news",
+  "pubDate": "Sat, 24 Oct 2026 21:37:21 +0000"
+ },
+ {
   "id": "5966db68bd832cfd",
   "player": "Tyrese Haliburton",
   "team": "IND",
@@ -1761,42 +1797,6 @@
   "category": "Injury",
   "source": "Anthony Slater",
   "link": "https://www.nbcsports.com/nba/brandin-podziemski/169522/news",
-  "pubDate": "Thu, 22 Oct 2026 01:03:53 +0000"
- },
- {
-  "id": "cb0337628aa4ac78",
-  "player": "Luke Kennard",
-  "team": "PHX",
-  "headline": "Luke Kennard (knee) is out for Wednesday’s game against the Trail Blazers.",
-  "body": "Kennard will miss the Suns’ season opener after initially being listed as questionable. His absence likely means fellow reserve Jordan Goodwin will get more minutes.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Duane Rankin",
-  "link": "https://www.nbcsports.com/nba/luke-kennard/10602/news",
-  "pubDate": "Thu, 22 Oct 2026 01:03:53 +0000"
- },
- {
-  "id": "4ca56a6f2267c4aa",
-  "player": "Adou Thiero",
-  "team": "LAL",
-  "headline": "Adou Thiero (knee) has been shut down for a few days after experiencing swelling.",
-  "body": "Thiero will not play in Wednesday’s opener against the Warriors due to a right knee effusion. There has also been some swelling in the knee, so the Lakers are shutting the second-year wing down for a few days. Upon his clearance to resume working out, Thiero will be considered day-to-day.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Khobi Price",
-  "link": "https://www.nbcsports.com/nba/adou-thiero/206489/news",
-  "pubDate": "Thu, 22 Oct 2026 01:03:53 +0000"
- },
- {
-  "id": "ed7114fc6277e584",
-  "player": "Deni Avdija",
-  "team": "POR",
-  "headline": "Deni Avdija (ankle) is a game time decision against the Suns in Wednesday’s season opener.",
-  "body": "The Blazers already have Shaedon Sharpe out for an extended of of time. If Deni were to miss time, there would be more minutes for Sidy Cissoko and Vit Krecji, but neither would be that impactful in most fantasy leagues.",
-  "author": "",
-  "category": "Injury",
-  "source": "Duane Rankin",
-  "link": "https://www.nbcsports.com/nba/deni-avdija/10994/news",
   "pubDate": "Thu, 22 Oct 2026 01:03:53 +0000"
  }
 ]
