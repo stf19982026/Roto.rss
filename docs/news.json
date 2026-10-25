@@ -1,5 +1,29 @@
 [
  {
+  "id": "e13d15c50c1abc7d",
+  "player": "Ausar Thompson",
+  "team": "DET",
+  "headline": "Ausar Thompson (ankle) did not participate in Sunday’s pregame shootaround.",
+  "body": "Thompson, who’s officially questionable for Sunday’s game against the 76ers, sprained his right ankle during Friday’s win over the Heat. If he can’t play, the Pistons have multiple options on the bench, including Ron Holland II and Javonte Green. Holland played 22 minutes on Friday, while Green played 13.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "Coty Davis",
+  "link": "https://www.nbcsports.com/nba/ausar-thompson/169489/news",
+  "pubDate": "Sun, 25 Oct 2026 16:02:21 +0000"
+ },
+ {
+  "id": "b578409378de1288",
+  "player": "Jalen Duren",
+  "team": "DET",
+  "headline": "The Pistons announced on Sunday that Jalen Duren (hamstring) will be re-evaluated in two weeks.",
+  "body": "Duren was injured in the second quarter of Friday’s win over the Heat and did not return to the game. With the Pistons’ starting center sidelined for at least two weeks, now is the time to add Paul Reed if he’s sitting on the waiver wire. In 26 minutes on Friday, Reed tallied 19 points and 11 rebounds for the Pistons, who visit the 76ers on Sunday.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "Detroit Pistons",
+  "link": "https://www.nbcsports.com/nba/jalen-duren/11250/news",
+  "pubDate": "Sun, 25 Oct 2026 16:02:21 +0000"
+ },
+ {
   "id": "36b7929bea1165b7",
   "player": "Graham Ike",
   "team": "GSW",
@@ -1773,30 +1797,6 @@
   "category": "Injury",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/steven-adams/10076/news",
-  "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
- },
- {
-  "id": "54cb957250cc8ae9",
-  "player": "Devin Carter",
-  "team": "BOS",
-  "headline": "Devin Carter (illness) is out for Friday’s game against the Knicks.",
-  "body": "It was reported on Monday that Carter was dealing with mononucleosis, so he’s likely to be unavailable for a while. His continued absence does not affect fantasy basketball or the Celtics’ rotation.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/devin-carter/204058/news",
-  "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
- },
- {
-  "id": "6336ed62273e24a6",
-  "player": "T.J. McConnell",
-  "team": "IND",
-  "headline": "T.J. McConnell (hamstring) is out Friday against the Mavericks.",
-  "body": "McConnell will be out for a second straight game to open the 2026-27 campaign, which should lead to a bump in ball-handling responsibilities for Andrew Nembhard behind Tyrese Haliburton.",
-  "author": "Zak Hanshew",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/t-j-mcconnell/10378/news",
   "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
  }
 ]
