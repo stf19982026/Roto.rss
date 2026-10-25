@@ -1,5 +1,77 @@
 [
  {
+  "id": "0751d74c1835f79a",
+  "player": "Patrick Williams",
+  "team": "CHI",
+  "headline": "Patrick Williams (groin) is questionable for Monday’s game against the Celtics.",
+  "body": "Williams, who missed Saturday’s loss to the Wizards, was a DNP-CD in Chicago’s first two games. If he’s healthy enough to play on Monday, the former lottery pick is unlikely to get the minutes needed to be fantasy-relevant.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/patrick-williams/11011/news",
+  "pubDate": "Sun, 25 Oct 2026 18:55:57 +0000"
+ },
+ {
+  "id": "06699298383435de",
+  "player": "Noa Essengue",
+  "team": "CHI",
+  "headline": "Noa Essengue (head) is questionable for Monday’s game against the Celtics.",
+  "body": "Essengue sat out Saturday’s loss to the Wizards with a right-side head contusion. If he remains out, Zach Collins may retain the backup center role. Collins played 11 minutes on Saturday, which isn’t enough time to offer tangible fantasy value.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/noa-essengue/277180/news",
+  "pubDate": "Sun, 25 Oct 2026 18:55:57 +0000"
+ },
+ {
+  "id": "329536a6962d3b65",
+  "player": "Tyler Bilodeau",
+  "team": "BKN",
+  "headline": "Tyler Bilodeau (shoulder) is out for Sunday’s game against the Pacers.",
+  "body": "Bilodeau has yet to appear in a game due to his sprained right shoulder, and the Nets have not provided a return timeline. His continued absence doesn’t affect fantasy basketball, as the rookie isn’t guaranteed a spot in the rotation once healthy.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/tyler-bilodeau/0000019e-fdf4-df54-a1bf-fdf4ab810000/news",
+  "pubDate": "Sun, 25 Oct 2026 18:55:57 +0000"
+ },
+ {
+  "id": "ede3a45d25f0e399",
+  "player": "LeBron James",
+  "team": "PHI",
+  "headline": "LeBron James (sciatica) is not on the injury report for Sunday’s game against the Pistons.",
+  "body": "James is good to go after sitting out Saturday’s win over the Bucks. Dean Wade replaced him in the starting lineup, but both may start on Sunday since Joel Embiid (foot) is out.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/lebron-james/9844/news",
+  "pubDate": "Sun, 25 Oct 2026 18:55:57 +0000"
+ },
+ {
+  "id": "603768b1bed4f6f2",
+  "player": "Joel Embiid",
+  "team": "PHI",
+  "headline": "Joel Embiid (foot) is out for Sunday’s game against the Pistons.",
+  "body": "Embiid said after Saturday’s win over the Bucks that he wouldn’t play Sunday, and the team has now made it official. LeBron James is not on the injury report after sitting out on Saturday, so he may see more playing time at center than he did in wins over the Knicks and Cavaliers.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/joel-embiid/10488/news",
+  "pubDate": "Sun, 25 Oct 2026 18:55:57 +0000"
+ },
+ {
+  "id": "badb2e2d5b36cef9",
+  "player": "Jabari Walker",
+  "team": "PHI",
+  "headline": "Jabari Walker (knee) is out for Sunday’s game against the Pistons.",
+  "body": "Walker limped off the court during the third quarter of Saturday’s win over the Bucks and did not return. According to the 76ers’ injury report, he’s dealing with a sore left knee. With Joel Embiid (foot) also ruled out for Sunday, Adem Bona’s playing time is likely to increase, but he isn’t worth the streaming risk in most leagues.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jabari-walker/11279/news",
+  "pubDate": "Sun, 25 Oct 2026 18:55:57 +0000"
+ },
+ {
   "id": "e13d15c50c1abc7d",
   "player": "Ausar Thompson",
   "team": "DET",
@@ -1725,78 +1797,6 @@
   "category": "Injury",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/dean-wade/10932/news",
-  "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
- },
- {
-  "id": "6e0b990a31d0cf5d",
-  "player": "Jarrett Allen",
-  "team": "CLE",
-  "headline": "Jarrett Allen (knee) is available for Thursday’s game against the 76ers.",
-  "body": "Listed as questionable on the Cavaliers’ initial injury report for Thursday, Allen is good to go. He’ll start alongside James Harden, Donovan Mitchell, Peyton Watson and Evan Mobley.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Danny Cunningham",
-  "link": "https://www.nbcsports.com/nba/jarrett-allen/10581/news",
-  "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
- },
- {
-  "id": "355788085798437d",
-  "player": "Keldon Johnson",
-  "team": "SAS",
-  "headline": "Keldon Johnson (mouth) is questionable for Friday’s game against the Rockets.",
-  "body": "Johnson suffered a laceration to his mouth during Tuesday’s loss to the Thunder, but he still played 20 minutes off the bench. He’ll likely carry a similar workload if he’s available on Friday. If Johnson can’t play, Harrison Barnes and Carter Bryant stand to gain the most in playing time.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/keldon-johnson/10869/news",
-  "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
- },
- {
-  "id": "50b9c38a238f3fdf",
-  "player": "Tobias Harris",
-  "team": "SAS",
-  "headline": "Tobias Harris (calf) is out for Friday’s game against the Rockets.",
-  "body": "Harris, whose calf strain sidelined him for the entire preseason, will miss a second consecutive regular-season game. His absence means Dylan Harper and Devin Vassell will continue to start, and that may remain true even after Harris returns to action.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/tobias-harris/9545/news",
-  "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
- },
- {
-  "id": "bd843ebf2a786509",
-  "player": "De'Aaron Fox",
-  "team": "SAS",
-  "headline": "De’Aaron Fox (wrist) is questionable for Friday’s game against the Rockets.",
-  "body": "Fox, who played 32 minutes in Tuesday’s season-opening loss to the Thunder, is dealing with a sprained right wrist. If there’s a silver lining to the injury, it’s that he shoots left-handed. If Fox can’t play on Friday, Julian Champagnie could move into the starting lineup after playing 30 minutes off the bench on Tuesday.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/deaaron-fox/10578/news",
-  "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
- },
- {
-  "id": "0e892feedf94838f",
-  "player": "Reed Sheppard",
-  "team": "HOU",
-  "headline": "Reed Sheppard (knee) is questionable for Friday’s game against the Spurs.",
-  "body": "Sheppard, who logged 16 minutes off the bench in Wednesday’s win over the Mavericks, is dealing with a bone bruise and contusion in his left knee. The third-year guard is effectively third in the Rockets’ point-guard pecking order behind Fred VanVleet and Marcus Smart, which hurts his fantasy value.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/reed-sheppard/207423/news",
-  "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
- },
- {
-  "id": "9b90dc68184861a6",
-  "player": "Steven Adams",
-  "team": "HOU",
-  "headline": "Steven Adams (calf) is questionable for Friday’s game against the Spurs.",
-  "body": "A game-time call for Houston’s season opener, Adams did not play in Wednesday’s win over the Mavericks. Clint Capela effectively took over backup center duties, but he played just eight minutes. Rostering Capela would not be much of a gain for fantasy managers if Adams remains out on Friday.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/steven-adams/10076/news",
   "pubDate": "Thu, 22 Oct 2026 22:57:31 +0000"
  }
 ]
