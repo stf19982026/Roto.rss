@@ -1,5 +1,29 @@
 [
  {
+  "id": "d49bfc6792b75463",
+  "player": "Jalen Suggs",
+  "team": "ORL",
+  "headline": "Jalen Suggs (knee) was helped back to the Magic locker room during the fourth quarter of Sunday’s game against the Knicks.",
+  "body": "Suggs was driving to the basket for an uncontested layup when his right knee hyperextended. The Magic guard remained down on the court for a few minutes before being helped back to the locker room. Suggs could put some weight on his right leg, but the injury could keep him out for a while.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/jalen-suggs/11118/news",
+  "pubDate": "Mon, 26 Oct 2026 01:46:05 +0000"
+ },
+ {
+  "id": "12d284ccb103840e",
+  "player": "Jalen Williams",
+  "team": "OKC",
+  "headline": "Jalen Williams exited late in the fourth quarter of Sunday’s game against the Clippers after suffering a serious left leg injury.",
+  "body": "Williams suffered a serious left leg injury late in the fourth quarter of Sunday’s game, with team doctors applying an air cast before taking him off the court on a stretcher. He’ll miss an unknown amount of time, but the Thunder forward is likely looking at a lengthy absence. Jared McCain replaced Williams in the Thunder lineup.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/jalen-williams/11298/news",
+  "pubDate": "Mon, 26 Oct 2026 01:46:05 +0000"
+ },
+ {
   "id": "0058c53ae340a604",
   "player": "Ivica Zubac",
   "team": "IND",
@@ -1773,30 +1797,6 @@
   "category": "Injury",
   "source": "Tony East",
   "link": "https://www.nbcsports.com/nba/aaron-nesmith/11019/news",
-  "pubDate": "Fri, 23 Oct 2026 22:34:56 +0000"
- },
- {
-  "id": "70ca19a325695e2b",
-  "player": "Micah Peavy",
-  "team": "OKC",
-  "headline": "ESPN’s Shams Charania reports the Thunder have agreed on a two-way contract with Micah Peavy.",
-  "body": "Peavy was waived by the Grizzlies earlier this week and went unclaimed. Now the former 18th overall pick in the 2025 NBA Draft will try to carve out a role for himself on the Thunder. He reportedly picked Oklahoma City over Toronto as the Raptors had also offered him a two-way contract.",
-  "author": "Nick Shlain",
-  "category": "Transaction",
-  "source": "Shams Charania",
-  "link": "https://www.nbcsports.com/nba/micah-peavy/202323/news",
-  "pubDate": "Fri, 23 Oct 2026 22:34:56 +0000"
- },
- {
-  "id": "9c4beb7d0c173053",
-  "player": "Felix Okpara",
-  "team": "WAS",
-  "headline": "Felix Okpara (illness) is available for Friday’s game against the Raptors.",
-  "body": "Okpara is available for Friday’s game, but that doesn’t guarantee he’ll see action. The rookie should only be rostered in dynasty leagues.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/felix-okpara/0000019e-fdf4-df54-a1bf-fdf4cf070000/news",
   "pubDate": "Fri, 23 Oct 2026 22:34:56 +0000"
  }
 ]
