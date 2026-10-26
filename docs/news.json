@@ -1,5 +1,53 @@
 [
  {
+  "id": "bbd4fcc75d737230",
+  "player": "Karim Lopez",
+  "team": "MEM",
+  "headline": "Karim Lopez (knee) is questionable for Monday’s game against the Jazz.",
+  "body": "Lopez missed Sunday’s game against the Kings and is seemingly on the wrong side of questionable for Monday’s tilt with the Jazz. His likely absence won’t impact fantasy basketball, however.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/karim-lopez/0000019e-f8cd-df54-a1bf-fcfdfc110000/news",
+  "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
+ },
+ {
+  "id": "47ac37eca88bd548",
+  "player": "Isaiah Stewart",
+  "team": "MEM",
+  "headline": "Isaiah Stewart (ankle) is questionable for Monday’s game against the Jazz.",
+  "body": "Stewart is questionable for Monday’s game with an ankle injury. If he can’t play, Quinten Post could see more minutes off the bench, though he isn’t worth rostering in fantasy leagues.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/isaiah-stewart/11004/news",
+  "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
+ },
+ {
+  "id": "a4d8f6bddd0695e6",
+  "player": "Alpha Diallo",
+  "team": "DEN",
+  "headline": "Alpha Diallo (wrist, personal) is out for Monday’s game against the Warriors.",
+  "body": "No surprise here as Diallo was initially listed as doubtful. With Cameron Johnson (ankle) doubtful, Trevon Brazile is the preferred streamer from the Nuggets’ bench.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/alpha-diallo/0000019f-5aa6-d06b-a59f-5aafc84d0000/news",
+  "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
+ },
+ {
+  "id": "b52680454e475cc2",
+  "player": "Nikola Topić",
+  "team": "OKC",
+  "headline": "Nikola Topić (back) and Thomas Sorber (knee) are out for Monday’s game against the Suns.",
+  "body": "Both Topić and Sorber are yet to appear in a game due to injuries. Neither is worth rostering outside of dynasty formats.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/nikola-topic/246910/news",
+  "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
+ },
+ {
   "id": "030d612cd79643be",
   "player": "Jaxson Hayes",
   "team": "UTA",
@@ -1750,53 +1798,5 @@
   "source": "",
   "link": "https://www.nbcsports.com/nba/franz-wagner/11135/news",
   "pubDate": "Sat, 24 Oct 2026 01:58:03 +0000"
- },
- {
-  "id": "e17578f83e7096dc",
-  "player": "Steven Adams",
-  "team": "HOU",
-  "headline": "Steven Adams (calf) is available for Friday’s game against the Spurs.",
-  "body": "A game-time call for Friday’s game, Adams is good to go for his first appearance of the season. His availability likely pushes Clint Capela out of the rotation entirely, with Capela having logged eight minutes in Wednesday’s win over the Mavericks.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/steven-adams/10076/news",
-  "pubDate": "Sat, 24 Oct 2026 01:00:18 +0000"
- },
- {
-  "id": "4a7cf1bf1ad7c9e6",
-  "player": "Paolo Banchero",
-  "team": "ORL",
-  "headline": "Paolo Banchero (ankle) has returned to Friday’s game against the Timberwolves.",
-  "body": "Banchero tweaked his right ankle early in the third quarter, forcing him to head to the locker room. He has since returned to action, which is great for Magic fans and fantasy managers alike.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/paolo-banchero/11269/news",
-  "pubDate": "Sat, 24 Oct 2026 01:00:18 +0000"
- },
- {
-  "id": "3c73da959b715c6a",
-  "player": "Paolo Banchero",
-  "team": "ORL",
-  "headline": "Paolo Banchero (ankle) returned to the Magic locker room during the third quarter of Friday’s game against the Timberwolves.",
-  "body": "Banchero appeared to tweak his right ankle while crashing for a rebound early in the third quarter after colliding with teammate Jalen Suggs. He has since gone back to the locker room for further evaluation. Tristan da Silva has entered the lineup and should play more if Banchero can’t return.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Orlando Magic Daily",
-  "link": "https://www.nbcsports.com/nba/paolo-banchero/11269/news",
-  "pubDate": "Sat, 24 Oct 2026 01:00:18 +0000"
- },
- {
-  "id": "85499cf11ea72fb4",
-  "player": "Luke Kennard",
-  "team": "PHX",
-  "headline": "Luke Kennard (knee) is questionable for Saturday’s game against the Warriors.",
-  "body": "Kennard did not play in Wednesday’s season-opening loss to the Trail Blazers, and his absence led to Jordan Goodwin playing 22 minutes off the bench. Goodwin’s playing time may suffer if Kennard returns.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/luke-kennard/10602/news",
-  "pubDate": "Sat, 24 Oct 2026 01:00:18 +0000"
  }
 ]
