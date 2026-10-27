@@ -1,5 +1,53 @@
 [
  {
+  "id": "8a6f998c8d0863bb",
+  "player": "VJ Edgecombe",
+  "team": "PHI",
+  "headline": "Sixers reporter Kyle Neubeck reports that VJ Edgecombe was a full participant in Tuesday’s practice.",
+  "body": "Edgecombe sat out Sunday’s matchup with the Pistons, but his full participation in practice suggests he could return as soon as Wednesday against the Pacers. If Edgecombe is forced to miss another game, Kentavious Caldwell-Pope could remain in the starting lineup.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "Kyle Neubeck",
+  "link": "https://www.nbcsports.com/nba/vj-edgecombe/248402/news",
+  "pubDate": "Tue, 27 Oct 2026 18:55:24 +0000"
+ },
+ {
+  "id": "ff320902239a4340",
+  "player": "Paul George",
+  "team": "BOS",
+  "headline": "Paul George and Mitchell Robinson are not on the injury report for Tuesday’s matchup with the Nets.",
+  "body": "Both players took the court on Monday, and both are on track to appear in both legs of a back-to-back set. Fantasy managers should still keep an eye on their statuses closer to tip-off to ensure neither are late scratches.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/paul-george/9601/news",
+  "pubDate": "Tue, 27 Oct 2026 18:55:24 +0000"
+ },
+ {
+  "id": "e157745778b4c5ae",
+  "player": "Santi Aldama",
+  "team": "DAL",
+  "headline": "NBA Insider Marc Stein reports that Santi Aldama was assigned to the Texas Legends of the G League to practice with the team as part of his return-to-play protocol.",
+  "body": "Aldama underwent knee surgery in March and has yet to make his Mavericks debut, but his assignment to Dallas’ G League affiliate is an encouraging update to his status moving forward.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "Marc Stein",
+  "link": "https://www.nbcsports.com/nba/santi-aldama/11138/news",
+  "pubDate": "Tue, 27 Oct 2026 18:55:24 +0000"
+ },
+ {
+  "id": "215dd5038866eaaa",
+  "player": "Kawhi Leonard",
+  "team": "TOR",
+  "headline": "ESPN’s Shams Charania reports that Kawhi Leonard will miss “a period of weeks” due to swelling in his left knee.",
+  "body": "According to Shams, an MRI revealed no structural damage, but the Raptors are being cautious with the superstar and will keep an eye on his knee while ramping him back up. In his absence, Ja’Kobe Walter should see an increased role. Walter started on Sunday and finished with 22/4/2 with three “stocks” and five triples. Guys like Jamal Shead and Collin Murray-Boyles could also be in line for bumps in playing time, but Walter is the preferred add from a fantasy basketball perspective.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "Shams Charania",
+  "link": "https://www.nbcsports.com/nba/kawhi-leonard/9568/news",
+  "pubDate": "Tue, 27 Oct 2026 18:55:24 +0000"
+ },
+ {
   "id": "58d5160da1b873d2",
   "player": "DeMar DeRozan",
   "team": "DEN",
@@ -1749,54 +1797,6 @@
   "category": "Injury",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/christian-anderson-jr/0000019e-f8ce-df54-a1bf-fcfe36c20000/news",
-  "pubDate": "Sat, 24 Oct 2026 21:15:01 +0000"
- },
- {
-  "id": "4a2d5b3e7d08e53d",
-  "player": "Otega Oweh",
-  "team": "FA",
-  "headline": "Thunder waived Otega Oweh.",
-  "body": "Oweh was selected by Oklahoma City in the second round, but he was ruled out for the entirety of this season with a torn Achilles earlier this month. They’ve elected to open up a roster spot for Micah Peavy, who they signed to a two-way contract on Friday.",
-  "author": "Noah Rubin",
-  "category": "Transaction",
-  "source": "Brandon Rahbar",
-  "link": "https://www.nbcsports.com/nba/otega-oweh/0000019e-fdf4-df54-a1bf-fdf4805d0000/news",
-  "pubDate": "Sat, 24 Oct 2026 21:15:01 +0000"
- },
- {
-  "id": "014d0b4abf620ba6",
-  "player": "Ausar Thompson",
-  "team": "DET",
-  "headline": "Ausar Thompson (ankle) is questionable for Sunday’s game against the 76ers.",
-  "body": "Thompson rolled his ankle, left the game and didn’t return in Friday’s win over the Heat. It’s encouraging that he’s listed as questionable for Sunday’s game against the 76ers rather than being ruled out in advance. Still, it wouldn’t be a surprise if the Pistons exercise some caution and give Thompson more time off. In that case, Ron Holland II could see more playing time off the bench, though he’s not worth the risk to stream in fantasy leagues.",
-  "author": "Nick Shlain",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/ausar-thompson/169489/news",
-  "pubDate": "Sat, 24 Oct 2026 21:15:01 +0000"
- },
- {
-  "id": "427466c616c5dca1",
-  "player": "Oso Ighodaro",
-  "team": "PHX",
-  "headline": "Oso Ighodaro (oblique) has been ruled out against the Warriors on Saturday.",
-  "body": "Ighodaro exited early from Wednesday’s game against Portland and was initially listed as doubtful for this one. Duop Reath should fill out the backup center minutes behind Khaman Maluach.",
-  "author": "Noah Rubin",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/oso-ighodaro/203266/news",
-  "pubDate": "Sat, 24 Oct 2026 21:15:01 +0000"
- },
- {
-  "id": "14c59a8754017fd2",
-  "player": "Al Horford",
-  "team": "GSW",
-  "headline": "Al Horford (back) is out for Saturday’s game against the Suns.",
-  "body": "Horford is out with back injury management. Purely a depth piece at this stage of his career, Horford isn’t likely to play enough minutes to be fantasy-relevant even when he’s healthy.",
-  "author": "Nick Shlain",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/al-horford/9772/news",
   "pubDate": "Sat, 24 Oct 2026 21:15:01 +0000"
  }
 ]
