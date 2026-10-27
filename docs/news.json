@@ -1,5 +1,17 @@
 [
  {
+  "id": "20cdee4544ae1af0",
+  "player": "Jaren Jackson",
+  "team": "UTA",
+  "headline": "ESPN’s Shams Charania reports that Jaren Jackson Jr. suffered a torn MCL in Monday’s matchup with the Grizzlies, and he will be sidelined 6-8 weeks.",
+  "body": "The good news for JJJ is that he won’t require surgery, but given his injury history, it’s another significant blow to his outlook for the rest of the season. With Jusuf Nurkić (foot) still sidelined, Jaxson Hayes is a guy to scoop up off the waiver wire as one of Utah’s only healthy centers.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "Shams Charania",
+  "link": "https://www.nbcsports.com/nba/jaren-jackson-jr/10719/news",
+  "pubDate": "Tue, 27 Oct 2026 20:32:56 +0000"
+ },
+ {
   "id": "8a6f998c8d0863bb",
   "player": "VJ Edgecombe",
   "team": "PHI",
@@ -1785,18 +1797,6 @@
   "category": "Injury",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/aaron-nesmith/11019/news",
-  "pubDate": "Sat, 24 Oct 2026 21:15:01 +0000"
- },
- {
-  "id": "729011e887308c65",
-  "player": "Christian Anderson",
-  "team": "CHA",
-  "headline": "Christian Anderson (ankle) is available to play against the Heat on Saturday.",
-  "body": "Anderson was initially listed as probable for this game, and he has now officially been cleared to suit up. He has averaged 14.5 minutes per game this season but hasn’t contributed much in the box score yet. He’ll provide backup point guard minutes behind Dennis Schröder.",
-  "author": "Noah Rubin",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/christian-anderson-jr/0000019e-f8ce-df54-a1bf-fcfe36c20000/news",
   "pubDate": "Sat, 24 Oct 2026 21:15:01 +0000"
  }
 ]
