@@ -1,5 +1,65 @@
 [
  {
+  "id": "7bf06ce76dc0199b",
+  "player": "Jalen Smith",
+  "team": "CHI",
+  "headline": "Jalen Smith (finger) is questionable for Friday’s matchup with the Celtics.",
+  "body": "Smith is dealing with a left finger sprain that could keep him sidelined against Boston. With Nic Claxton (hamstring) still out and Tobe Awaka (ankle) questionable, the Bulls could turn to Zach Collins to handle substantial minutes at center.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jalen-smith/11028/news",
+  "pubDate": "Thu, 29 Oct 2026 19:54:42 +0000"
+ },
+ {
+  "id": "e3a9b3609823a52f",
+  "player": "Robert Williams",
+  "team": "POR",
+  "headline": "Robert Williams III (knee) is doubtful for Thursday’s matchup with the Grizzlies.",
+  "body": "Time Lord will sit out Thursday for a maintenance day, and Yang Hansen will be available to backup Donovan Clingan. Williams III’s next chance to take the court will come on Saturday against the Jazz.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/robert-williams/10737/news",
+  "pubDate": "Thu, 29 Oct 2026 19:54:42 +0000"
+ },
+ {
+  "id": "a71bc6fd5f44df86",
+  "player": "Kon Knueppel",
+  "team": "CHA",
+  "headline": "According to the Hornets PR X.com account, Kon Knueppel (hamstring) was assigned to the Greensboro Swarm for Thursday’s practice.",
+  "body": "Knueppel hasn’t made his 2026-27 debut due to a hamstring strain, but his assignment to Charlotte’s G League affiliate is encouraging. Knueppel could be nearing a return, and fantasy managers should keep a close eye on his status moving forward.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "Hornets PR",
+  "link": "https://www.nbcsports.com/nba/kon-knueppel/248341/news",
+  "pubDate": "Thu, 29 Oct 2026 19:54:42 +0000"
+ },
+ {
+  "id": "887c8e19a7f3b422",
+  "player": "Jordan Poole",
+  "team": "NOP",
+  "headline": "Jordan Poole (ankle) is doubtful for Thursday’s matchup with the Kings.",
+  "body": "Poole injured his ankle against the Nuggets on Wednesday, and given the quick turnaround, he’ll sit out the second leg of the back-to-back set. In his absence, Herb Jones and Benn Mathurin could take on expanded roles.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jordan-poole/10882/news",
+  "pubDate": "Thu, 29 Oct 2026 19:54:42 +0000"
+ },
+ {
+  "id": "b1a5a2b1d564e8e0",
+  "player": "Jaylon Tyson",
+  "team": "CLE",
+  "headline": "Jaylon Tyson (cervical strain) is questionable for Thursday’s matchup with the Hawks.",
+  "body": "Tyson is a late addition to the injury report, which means he’s in danger of sitting out against Atlanta. If Tyson is ultimately ruled out, Sam Merrill and Mario Hezonja could see bumps in playing time.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jaylon-tyson/204687/news",
+  "pubDate": "Thu, 29 Oct 2026 19:54:42 +0000"
+ },
+ {
   "id": "cf43395323a1067b",
   "player": "Kobe Sanders",
   "team": "LAC",
@@ -1738,65 +1798,5 @@
   "source": "",
   "link": "https://www.nbcsports.com/nba/karim-lopez/0000019e-f8cd-df54-a1bf-fcfdfc110000/news",
   "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
- },
- {
-  "id": "47ac37eca88bd548",
-  "player": "Isaiah Stewart",
-  "team": "MEM",
-  "headline": "Isaiah Stewart (ankle) is questionable for Monday’s game against the Jazz.",
-  "body": "Stewart is questionable for Monday’s game with an ankle injury. If he can’t play, Quinten Post could see more minutes off the bench, though he isn’t worth rostering in fantasy leagues.",
-  "author": "Nick Shlain",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/isaiah-stewart/11004/news",
-  "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
- },
- {
-  "id": "a4d8f6bddd0695e6",
-  "player": "Alpha Diallo",
-  "team": "DEN",
-  "headline": "Alpha Diallo (wrist, personal) is out for Monday’s game against the Warriors.",
-  "body": "No surprise here as Diallo was initially listed as doubtful. With Cameron Johnson (ankle) doubtful, Trevon Brazile is the preferred streamer from the Nuggets’ bench.",
-  "author": "Nick Shlain",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/alpha-diallo/0000019f-5aa6-d06b-a59f-5aafc84d0000/news",
-  "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
- },
- {
-  "id": "b52680454e475cc2",
-  "player": "Nikola Topić",
-  "team": "OKC",
-  "headline": "Nikola Topić (back) and Thomas Sorber (knee) are out for Monday’s game against the Suns.",
-  "body": "Both Topić and Sorber are yet to appear in a game due to injuries. Neither is worth rostering outside of dynasty formats.",
-  "author": "Nick Shlain",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/nikola-topic/246910/news",
-  "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
- },
- {
-  "id": "030d612cd79643be",
-  "player": "Jaxson Hayes",
-  "team": "UTA",
-  "headline": "Jaxson Hayes (shoulder) is questionable for Monday’s game against the Grizzlies.",
-  "body": "Hayes is listed as questionable with shoulder soreness for Monday’s game against the Grizzlies. If he’s ruled out, Kyle Filipowski could see some bench minutes, but still isn’t worth rostering in fantasy leagues.",
-  "author": "Nick Shlain",
-  "category": "Injury",
-  "source": "Utah Jazz",
-  "link": "https://www.nbcsports.com/nba/jaxson-hayes/00000188-9cf1-da6b-abd8-fcfd6bf901d3/news",
-  "pubDate": "Mon, 26 Oct 2026 19:27:00 +0000"
- },
- {
-  "id": "a72dc61dacd39e41",
-  "player": "Nikola Topić",
-  "team": "OKC",
-  "headline": "Nikola Topić (back) and Thomas Sorber (knee) are off the injury report ahead of Monday’s game against the Suns.",
-  "body": "Topić and Sorber are off the injury report now. Neither has appeared in a game yet this year, so even with the Thunder missing players, the pair are still only worth rostering in dynasty leagues.",
-  "author": "Nick Shlain",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/nikola-topic/246910/news",
-  "pubDate": "Mon, 26 Oct 2026 19:27:00 +0000"
  }
 ]
