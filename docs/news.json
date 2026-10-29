@@ -1,5 +1,29 @@
 [
  {
+  "id": "a274106105846581",
+  "player": "Alperen Şengün",
+  "team": "HOU",
+  "headline": "Alperen Şengün (back) is questionable to play against the Mavericks on Friday.",
+  "body": "Şengün missed Wednesday’s game against Milwaukee, and head coach Ime Udoka opted to start Tari Eason, with Jabari Smith Jr. playing the small-ball center role. Clint Capela played extra minutes off the bench as well. Şengün’s return would push Eason back to the bench.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/alperen-sengun/11100/news",
+  "pubDate": "Thu, 29 Oct 2026 20:39:05 +0000"
+ },
+ {
+  "id": "a3802c74efceeb8f",
+  "player": "Patrick Williams",
+  "team": "CHI",
+  "headline": "Patrick Williams (adductor) is questionable for Friday’s matchup with the Celtics.",
+  "body": "Williams has a chance to make his season debut on Friday, but his availability won’t impact the realm of fantasy hoops.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/patrick-williams/11011/news",
+  "pubDate": "Thu, 29 Oct 2026 20:39:05 +0000"
+ },
+ {
   "id": "7bf06ce76dc0199b",
   "player": "Jalen Smith",
   "team": "CHI",
@@ -1774,29 +1798,5 @@
   "source": "Nick Crain",
   "link": "https://www.nbcsports.com/nba/cason-wallace/169496/news",
   "pubDate": "Mon, 26 Oct 2026 23:14:36 +0000"
- },
- {
-  "id": "305e7f5ea725e5c6",
-  "player": "Maxime Raynaud",
-  "team": "SAC",
-  "headline": "Maxime Raynaud (knee) to be re-evaluated in two weeks",
-  "body": "The center has progressed well, but remains sidelined for at least another two weeks. Raynaud is recovering from a right patellar subluxation sustained on Oct. 10.",
-  "author": "Shawn Robinson",
-  "category": "Injury",
-  "source": "Kings PR",
-  "link": "https://www.nbcsports.com/nba/maxime-raynaud/204517/news",
-  "pubDate": "Mon, 26 Oct 2026 23:14:36 +0000"
- },
- {
-  "id": "bbd4fcc75d737230",
-  "player": "Karim Lopez",
-  "team": "MEM",
-  "headline": "Karim Lopez (knee) is questionable for Monday’s game against the Jazz.",
-  "body": "Lopez missed Sunday’s game against the Kings and is seemingly on the wrong side of questionable for Monday’s tilt with the Jazz. His likely absence won’t impact fantasy basketball, however.",
-  "author": "Nick Shlain",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/karim-lopez/0000019e-f8cd-df54-a1bf-fcfdfc110000/news",
-  "pubDate": "Mon, 26 Oct 2026 20:00:23 +0000"
  }
 ]
