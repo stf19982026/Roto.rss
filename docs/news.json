@@ -1,5 +1,41 @@
 [
  {
+  "id": "179eb75e19a64862",
+  "player": "Patrick Williams",
+  "team": "CHI",
+  "headline": "Bulls insider K.C. Johnson reports that Patrick Williams is expected to make his season debut on Friday against the Hornets.",
+  "body": "Williams said at shootaround that he’ll be available, so we’ll upgrade him to probable until his status becomes official. Williams’ availability won’t be impactful on Chicago’s rotation.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "K.C. Johnson",
+  "link": "https://www.nbcsports.com/nba/patrick-williams/11011/news",
+  "pubDate": "Fri, 30 Oct 2026 17:08:38 +0000"
+ },
+ {
+  "id": "6f08ee3a86b0ab15",
+  "player": "Noah Clowney",
+  "team": "BKN",
+  "headline": "Nets reporter Erik Slater reports that Noah Clowney (illness) is questionable for Friday’s matchup with the Pistons.",
+  "body": "Clowney’s late addition to the injury report doesn’t bode well for his status ahead of Friday’s tilt with Detroit. If he’s ultimately ruled out, more minutes should be available for Josh Minott and Chaney Johnson.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "Erik Slater",
+  "link": "https://www.nbcsports.com/nba/noah-clowney/169508/news",
+  "pubDate": "Fri, 30 Oct 2026 17:08:38 +0000"
+ },
+ {
+  "id": "033747baa61229b5",
+  "player": "Isaiah Stewart",
+  "team": "MEM",
+  "headline": "Isaiah Stewart provided a boost off the bench with 18 points (7-of-10 FGs), three rebounds, one block and two three-pointers against the Trail Blazers on Thursday.",
+  "body": "Quinten Post (ankle) exited this game early, which allowed Stewart to be the primary backup center. He did most of his scoring after Post’s exit, with 15 of his 18 points coming in the second half. Stewart has been solid as a reserve for Memphis this year, though this was his season high for scoring. Unless he’s filling in for Zach Edey as a starter, Stewart shouldn’t be rostered outside of deep leagues. This level of scoring won’t come consistently.",
+  "author": "Noah Rubin",
+  "category": "Recap",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/isaiah-stewart/11004/news",
+  "pubDate": "Fri, 30 Oct 2026 17:08:38 +0000"
+ },
+ {
   "id": "8ef094925c0749b4",
   "player": "Donovan Clingan",
   "team": "POR",
@@ -1761,42 +1797,6 @@
   "category": "Recap",
   "source": "",
   "link": "https://www.nbcsports.com/nba/keyonte-george/169497/news",
-  "pubDate": "Tue, 27 Oct 2026 04:34:54 +0000"
- },
- {
-  "id": "36027e719dc8feee",
-  "player": "Ty Jerome",
-  "team": "MEM",
-  "headline": "Ty Jerome struggled on Monday but still contributed 15 points (4-of-15 FGs), one rebound, eight assists, one steal and one three-pointer against the Jazz.",
-  "body": "After a scorching start to the season, Jerome fell back to earth in this game. His shot simply didn’t fall at the same rate, though he made up for it by dishing out a season high for assists. Jerome has been unreal to start the season, but it was never likely that he would maintain that pace. However, he should be a fantastic fantasy option for the rest of the season and one of the best value picks in fantasy basketball.",
-  "author": "Noah Rubin",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/ty-jerome/00000188-9cf1-da6b-abd8-fcfd6bf901be/news",
-  "pubDate": "Tue, 27 Oct 2026 04:34:54 +0000"
- },
- {
-  "id": "44f537238ec86747",
-  "player": "Cedric Coward",
-  "team": "MEM",
-  "headline": "Cedric Coward recorded a double-double on Monday with 16 points (6-of-12 FGs), 11 rebounds, three assists, one steal and four three-pointers in a 110-105 win over the Jazz.",
-  "body": "Coward has gotten off to a strong start in his second season, especially over his last two games, where he has recorded a double-double in each. It was an ugly win, but Memphis is now 4-0 to start the season. Coward has been a big part of that and is currently a top-50 player in fantasy basketball. He’ll look to keep it going in Portland on Thursday.",
-  "author": "Noah Rubin",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/cedric-coward/206400/news",
-  "pubDate": "Tue, 27 Oct 2026 04:34:54 +0000"
- },
- {
-  "id": "f3d32a2dfdade355",
-  "player": "Jabari Smith",
-  "team": "HOU",
-  "headline": "Jabari Smith Jr. recorded a double-double on Monday with 16 points (6-of-13 FGs), 12 rebounds, five assists, one steal, one block and two three-pointers against the Hawks.",
-  "body": "Smith has gotten off to a strong start to the year, headlined by a 30-point performance in the season opener. This was his first double-double of the year and a new season high for assists for Smith, and he only has one subpar outing this season, which came against the Spurs. He was held to seven points, though he only took five shots and added two steals and two blocks. Smith has been fantastic this year, which has been a big reason for Houston’s early success.",
-  "author": "Noah Rubin",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/jabari-smith-jr/11253/news",
   "pubDate": "Tue, 27 Oct 2026 04:34:54 +0000"
  }
 ]
