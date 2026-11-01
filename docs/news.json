@@ -1,5 +1,41 @@
 [
  {
+  "id": "cff6d166aca312af",
+  "player": "Tim Hardaway",
+  "team": "MIA",
+  "headline": "Tim Hardaway Jr. (personal) missed Heat practice on Sunday but is expected to rejoin the team in time for Monday’s game against the Lakers.",
+  "body": "Hardaway has come off the bench in each of Miami’s first six games, averaging 6.2 points, 2.2 rebounds and 1.0 three-pointers in 18.2 minutes. His production hasn’t been enough to merit a roster spot in fantasy leagues.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "Ira Winderman",
+  "link": "https://www.nbcsports.com/nba/tim-hardaway-jr/10098/news",
+  "pubDate": "Sun, 01 Nov 2026 18:37:41 +0000"
+ },
+ {
+  "id": "8d3947aeea57f841",
+  "player": "Nic Claxton",
+  "team": "CHI",
+  "headline": "According to Bulls head coach Tiago Splitter, Nic Claxton (hamstring) fully participated in Sunday’s practice.",
+  "body": "Acquired from the Nets in a multi-team trade this summer, Claxton strained his hamstring in early October and has been out since. However, his Bulls debut may not be far away, as he practiced on Sunday without limitations. Jalen Smith has been the starting center in Claxton’s absence, and managers may want to hold onto him until Claxton can play with no restrictions on his playing time.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "K.C. Johnson",
+  "link": "https://www.nbcsports.com/nba/nic-claxton/10886/news",
+  "pubDate": "Sun, 01 Nov 2026 18:37:41 +0000"
+ },
+ {
+  "id": "dd4596edd3f050e2",
+  "player": "Vít Krejčí",
+  "team": "POR",
+  "headline": "Vit Krejčí finished Saturday’s win over the Jazz with five points (2-of-6 FGs), four rebounds, two assists, one steal and one three-pointer.",
+  "body": "With Saturday’s game being Portland’s first since losing Ja Morant to a Grade 2 hamstring strain, head coach Micah Nori had to alter his rotation. One change was more playing time for Krejčí, who logged 24 minutes in the 112-90 victory. His production wasn’t enough to make him a player worth adding going into Week 3, but Krejčí should get more opportunities in the coming weeks.",
+  "author": "Raphielle Johnson",
+  "category": "Recap",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/vit-krejci/11109/news",
+  "pubDate": "Sun, 01 Nov 2026 18:37:41 +0000"
+ },
+ {
   "id": "9f669f611f110775",
   "player": "Mitchell Robinson",
   "team": "BOS",
@@ -1761,42 +1797,6 @@
   "category": "Injury",
   "source": "New Orleans Pelicans",
   "link": "https://www.nbcsports.com/nba/jordan-poole/10882/news",
-  "pubDate": "Thu, 29 Oct 2026 01:40:35 +0000"
- },
- {
-  "id": "1fcd9ef0c72bba37",
-  "player": "Yanic Konan Niederhäuser",
-  "team": "LAC",
-  "headline": "Yanic Konan Niederhäuser (foot) will not travel with the Clippers for their upcoming two-game road trip.",
-  "body": "Niederhäuser is working his way back from a Lisfranc injury that ended his rookie season in early March. He’s progressing in his recovery, and the team has decided he will stay home to continue that process rather than travel with the Clippers for road games on Friday and Sunday. Thus far, the Clippers have relied mainly on Isaiah Jackson and Brook Lopez at center, with rookie Baba Miller getting a few minutes as well.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Tomer Azarly",
-  "link": "https://www.nbcsports.com/nba/yanic-konan-niederhauser/206483/news",
-  "pubDate": "Thu, 29 Oct 2026 01:40:35 +0000"
- },
- {
-  "id": "3880df8a7bd3e581",
-  "player": "Max Strus",
-  "team": "LAC",
-  "headline": "Max Strus (foot) will remain in Los Angeles to continue his rehab instead of traveling with the Clippers for their upcoming road trip.",
-  "body": "Strus, who injured his right foot in an early-October preseason game, is scheduled for re-evaluation in a week. Instead of traveling with the team for road games on Friday and Sunday, he’ll stay in Los Angeles to continue his rehab work. Given the timeline provided at the beginning of the month, Strus’ return to the court may not be far away.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Tomer Azarly",
-  "link": "https://www.nbcsports.com/nba/max-strus/00000188-9cf1-da6b-abd8-fcfd8ec503d5/news",
-  "pubDate": "Thu, 29 Oct 2026 01:40:35 +0000"
- },
- {
-  "id": "763de6fb7eca7092",
-  "player": "Brandon Ingram",
-  "team": "LAC",
-  "headline": "Brandon Ingram (Achilles) will not travel with the Clippers for their upcoming road trip.",
-  "body": "Following Wednesday’s home game against the Lakers, the Clippers will play their next two on the road. Ingram is progressing in his recovery from a partially torn Achilles, but he will remain in Los Angeles to continue his rehab.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Tomer Azarly",
-  "link": "https://www.nbcsports.com/nba/brandon-ingram/10467/news",
   "pubDate": "Thu, 29 Oct 2026 01:40:35 +0000"
  }
 ]
