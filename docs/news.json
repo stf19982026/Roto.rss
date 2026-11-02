@@ -1,5 +1,29 @@
 [
  {
+  "id": "861b26ec7c25ad8c",
+  "player": "Kingston Flemings",
+  "team": "ATL",
+  "headline": "Kingston Flemings has been suspended one game for his actions during Saturday’s loss to the Pelicans.",
+  "body": "Flemings was ejected from Saturday’s game after elbowing Pelicans wing Bryce McGowens in the face during a confrontation. The NBA has since suspended the rookie for one game, which he’ll serve on Monday against the Pacers. Flemings will be eligible to return on Wednesday against the Wizards.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "Brad Rowland",
+  "link": "https://www.nbcsports.com/nba/kingston-flemings/0000019e-f8ce-df54-a1bf-fcfe33030000/news",
+  "pubDate": "Mon, 02 Nov 2026 03:06:07 +0000"
+ },
+ {
+  "id": "b0c6ff86f07bd901",
+  "player": "Jakob Poeltl",
+  "team": "TOR",
+  "headline": "Jakob Poeltl (shoulder) is out for Sunday’s game against the Lakers.",
+  "body": "Due to left shoulder bursitis, Poeltl is a late scratch for Sunday’s game. Trayce Jackson-Davis will replace him in the starting lineup, but Poeltl’s absence will likely give Collin Murray-Boyles more playing time as well.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "Blake Murphy",
+  "link": "https://www.nbcsports.com/nba/jakob-poeltl/00000188-9cf0-da6b-abd8-fcfdc91d011c/news",
+  "pubDate": "Mon, 02 Nov 2026 03:06:07 +0000"
+ },
+ {
   "id": "0d92ce9c78099972",
   "player": "Georges Niang",
   "team": "GSW",
@@ -1774,29 +1798,5 @@
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/cameron-johnson/00000188-9cf1-da6b-abd8-fcfd6bf901bc/news",
   "pubDate": "Fri, 30 Oct 2026 00:18:52 +0000"
- },
- {
-  "id": "92d52bbb7324e81f",
-  "player": "Jaylon Tyson",
-  "team": "CLE",
-  "headline": "Jaylon Tyson (neck) is available to play against the Hawks on Thursday.",
-  "body": "Tyson was initially listed as questionable for this game but has officially been cleared to suit up. He’ll continue to play his typical significant role off the bench, which has led to inconsistent production this season.",
-  "author": "Noah Rubin",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/jaylon-tyson/204687/news",
-  "pubDate": "Thu, 29 Oct 2026 23:52:44 +0000"
- },
- {
-  "id": "0681a12f8f8fd4e2",
-  "player": "Meleek Thomas",
-  "team": "CLE",
-  "headline": "Meleek Thomas (foot) has been ruled out against the Hawks on Thursday.",
-  "body": "Thomas has been playing a large role off the bench lately for Cleveland, but he won’t be available for this game. In his absence, Tyrese Proctor and Craig Porter Jr. may take on a few extra minutes, though neither will play enough to warrant a roster spot in fantasy basketball.",
-  "author": "Noah Rubin",
-  "category": "Injury",
-  "source": "Serena Winters",
-  "link": "https://www.nbcsports.com/nba/meleek-thomas/0000019e-fdf4-df54-a1bf-fdf495100000/news",
-  "pubDate": "Thu, 29 Oct 2026 23:52:44 +0000"
  }
 ]
