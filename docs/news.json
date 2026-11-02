@@ -1,5 +1,41 @@
 [
  {
+  "id": "468f8f33755710ae",
+  "player": "Aaron Nesmith",
+  "team": "IND",
+  "headline": "Aaron Nesmith (left hamstring injury management) is out for Monday’s matchup with the Hawks.",
+  "body": "Nesmith will get the night off on the second leg of a back-to-back set, as most of Indiana’s roster is on the injury report for this one. Fantasy managers looking for fill-in options can check the final injury report for availability, but with every team in action tonight, there are likely more attractive streamers.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/aaron-nesmith/11019/news",
+  "pubDate": "Mon, 02 Nov 2026 18:45:20 +0000"
+ },
+ {
+  "id": "d3a805c67fba7395",
+  "player": "Andrew Nembhard",
+  "team": "IND",
+  "headline": "Andrew Nembhard (cervical injury management) is out for Monday’s matchup with the Hawks.",
+  "body": "Nembhard will join most of Indiana’s roster on the sideline, as the Pacers punt on the second leg of a back-to-back set. Indiana has only seven players available on Monday, and Quenton Jackson should see heavy minutes as the biggest beneficiary of Nembhard’s absence.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/andrew-nembhard/11328/news",
+  "pubDate": "Mon, 02 Nov 2026 18:45:20 +0000"
+ },
+ {
+  "id": "019fd61b67b7351c",
+  "player": "Luka Dončić",
+  "team": "LAL",
+  "headline": "Luka Dončić finished Sunday’s win over the Raptors with 45 points (12-of-23 FGs, 13-of-13 FTs), 15 rebounds, six assists, five steals, one block and eight three-pointers.",
+  "body": "Dončić put on a show Sunday night, shooting high percentages from the field and the foul line as part of an elite stat line. With the Lakers’ deep reserves failing to put the Raptors away, head coach JJ Redick had to insert four starters back into the game. That got Dončić four more points from the foul line. The lone negative was the seven turnovers, but the stat line was so robust that few will complain. The Lakers play four games next week, starting with the Heat on Monday.",
+  "author": "Raphielle Johnson",
+  "category": "Recap",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/luka-doncic/10716/news",
+  "pubDate": "Mon, 02 Nov 2026 18:45:20 +0000"
+ },
+ {
   "id": "e88862d640b3c7a6",
   "player": "Derrick Jones",
   "team": "LAC",
@@ -1761,42 +1797,6 @@
   "category": "Recap",
   "source": "",
   "link": "https://www.nbcsports.com/nba/donovan-clingan/205384/news",
-  "pubDate": "Fri, 30 Oct 2026 05:19:39 +0000"
- },
- {
-  "id": "971cb2f85f953a06",
-  "player": "Deni Avdija",
-  "team": "POR",
-  "headline": "Deni Avdija led the Trail Blazers with 24 points (8-of-16 FGs, 8-of-12 FTs), nine rebounds, seven assists and one block in a 124-103 loss to the Grizzlies on Thursday.",
-  "body": "Avdija’s production is slightly down from last season, but he continues to be the primary scoring option for Portland. He only scored 18 points in the season opener, though he only played 24 minutes because of the lopsided score. Since then, he has averaged 24.3 points and 7.3 assists per game while shooting 51.1 percent from the floor. If Avdija can continue t shoot this efficiently, he’ll be even better than he was last season.",
-  "author": "Noah Rubin",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/deni-avdija/10994/news",
-  "pubDate": "Fri, 30 Oct 2026 05:19:39 +0000"
- },
- {
-  "id": "1361c8332ceb19e9",
-  "player": "Damian Lillard",
-  "team": "POR",
-  "headline": "Damian Lillard struggled on Thursday and finished with just nine points (3-of-13 FGs), two rebounds, two assists and one three-pointer against the Grizzlies.",
-  "body": "Lillard has been excellent for a 36-year-old coming off a torn Achilles, but he struggled in this one. This was just Portland’s first loss of the season, and Lillard should get back to producing how he was previously. He isn’t the player he once was, but Lillard will continue to be a productive player, mostly as a reliable source of three-pointers and assists.",
-  "author": "Noah Rubin",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/damian-lillard/9612/news",
-  "pubDate": "Fri, 30 Oct 2026 05:19:39 +0000"
- },
- {
-  "id": "a4d8b5d9da6ede6c",
-  "player": "Isaiah Stewart",
-  "team": "MEM",
-  "headline": "Isaiah Stewart provided a boost off the bench with 18 points (7-of-10 FGs), three rebounds, one block and two three-pointers against the Trail Blazers on Tuesday.",
-  "body": "Quinten Post (ankle) exited this game early, which allowed Stewart to be the primary backup center. He did most of his scoring after Post’s exit, with 15 of his 18 points coming in the second half. Stewart has been solid as a reserve for Memphis this year, though this was his season high for scoring. Unless he’s filling in for Zach Edey as a starter, Stewart shouldn’t be rostered outside of deep leagues. This level of scoring won’t come consistently.",
-  "author": "Noah Rubin",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/isaiah-stewart/11004/news",
   "pubDate": "Fri, 30 Oct 2026 05:19:39 +0000"
  }
 ]
