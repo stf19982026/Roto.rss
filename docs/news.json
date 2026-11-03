@@ -1,5 +1,29 @@
 [
  {
+  "id": "818d68c437cda214",
+  "player": "Alex Caruso",
+  "team": "OKC",
+  "headline": "Alex Caruso (ankle) is not expected to be out long term",
+  "body": "After missing this third straight contest on Monday vs. the Cavs, Caruso is expected to not be out long term as his ankle sprain is not deemed serious. Even when the veteran guard gets back into the fold, the Thunder will still rely on the younger guys for heavy minutes.",
+  "author": "Shawn Robinson",
+  "category": "Injury",
+  "source": "Joe Vardon",
+  "link": "https://www.nbcsports.com/nba/alex-caruso/10652/news",
+  "pubDate": "Tue, 03 Nov 2026 16:28:18 +0000"
+ },
+ {
+  "id": "91397ee59055e8bc",
+  "player": "Dalen Terry",
+  "team": "GSW",
+  "headline": "Oklahoma City Thunder sign Dalen Terry to two-year deal",
+  "body": "Terry enters his fifth season in the NBA, departing from the Warriors G League team in Santa Cruz. In 218 games played, Terry has averaged 3.5 points, 1.7 rebounds and 1.2 assists. His most recent stints last season with the Bulls and 76ers, saw him play just 11.5 minutes per game. The 6-7 wing will help provide the Thunder some depth in that position as the injuries have piled up just in the opening weeks of the season.",
+  "author": "Shawn Robinson",
+  "category": "Transaction",
+  "source": "Shams Charania",
+  "link": "https://www.nbcsports.com/nba/dalen-terry/11277/news",
+  "pubDate": "Tue, 03 Nov 2026 16:28:18 +0000"
+ },
+ {
   "id": "f587dabd537c8f55",
   "player": "Darius Garland",
   "team": "LAC",
@@ -1773,30 +1797,6 @@
   "category": "Recap",
   "source": "",
   "link": "https://www.nbcsports.com/nba/nikola-jokic/10336/news",
-  "pubDate": "Sat, 31 Oct 2026 06:57:58 +0000"
- },
- {
-  "id": "8411427c8956b6a8",
-  "player": "Christian Braun",
-  "team": "DEN",
-  "headline": "Christian Braun had 31 points (11-of-16 FGs, 2-of-2 FTs), three rebounds, an assist, three steals, and seven 3-pointers in 127-120 win over the Suns.",
-  "body": "Braun went crazy in the first half and hit most of his shots which led to this stat line. Braun has gotten three steals in the past three games when his career average is 0.7 steals, so expect some regression to happen. If the steals become more of a consistent appearance from Braun, there is room for him to be a useful guy in redraft leagues.",
-  "author": "",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/christian-braun/11309/news",
-  "pubDate": "Sat, 31 Oct 2026 06:57:58 +0000"
- },
- {
-  "id": "1ab7b95288dcfc4b",
-  "player": "Jamal Murray",
-  "team": "DEN",
-  "headline": "Jamal Murray put up a monster performance of 39 points (10-of-18 FGs, 12-of-15 FTs), eight rebounds, five assists, a steal, a block, seven 3-pointers, and five turnovers in win over the Suns.",
-  "body": "Jamal Murray was an absolute monster in the third quarter, getting 15 points and was the reason they got secure lead. He got to the line 15 times and hit them at 805 which should be a nice boost to your FT% category. He’s been what you hoped for if you drafted him in the top 20 this season. He won’t shoot this efficiently every night, but barring injury he’ll continue to do what he’s doing.",
-  "author": "",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/jamal-murray/10462/news",
   "pubDate": "Sat, 31 Oct 2026 06:57:58 +0000"
  }
 ]
