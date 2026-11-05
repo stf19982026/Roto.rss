@@ -1,5 +1,77 @@
 [
  {
+  "id": "22eb1246a6af9200",
+  "player": "Max Christie",
+  "team": "DAL",
+  "headline": "Max Christie (hip) is probable to play against the Jazz on Friday.",
+  "body": "Christie is expected to be back following a one-game absence. Zaccharie Risacher got the starting nod in place of Christie on Wednesday, and he will likely return to coming off the bench with Christie expected back.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/max-christie/11257/news",
+  "pubDate": "Thu, 05 Nov 2026 23:47:44 +0000"
+ },
+ {
+  "id": "814b1981181bffcd",
+  "player": "Santi Aldama",
+  "team": "DAL",
+  "headline": "Santi Aldama (knee) is probable to play against the Jazz on Friday.",
+  "body": "Aldama is expected to make his debut for Dallas after missing the start of the year following knee surgery in March. He will likely be brought along slowly, and the Mavs’ rotation in the frontcourt is already deep. However, he’s talented enough to be part of the team’s rotation, even if it’s off the bench.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/santi-aldama/11138/news",
+  "pubDate": "Thu, 05 Nov 2026 23:47:44 +0000"
+ },
+ {
+  "id": "e38531b896a96d35",
+  "player": "Isaiah Stewart",
+  "team": "MEM",
+  "headline": "Isaiah Stewart (knee) has been ruled out against the Thunder on Friday.",
+  "body": "Stewart exited early from Wednesday’s game, and that injury will sideline him against OKC. Quinten Post, who returned from a two-game absence on Wednesday, should fill out the backup center minutes against the Thunder.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/isaiah-stewart/11004/news",
+  "pubDate": "Thu, 05 Nov 2026 23:47:44 +0000"
+ },
+ {
+  "id": "a6e350b50545226f",
+  "player": "Jaylin Williams",
+  "team": "OKC",
+  "headline": "Jaylin Williams (back) has been ruled out against the Grizzlies on Friday.",
+  "body": "Williams will miss a second straight game, which may result in another start for Aday Mara. However, Mara got the nod against the Cavaliers, who start both Evan Mobley and Jarrett Allen. Mark Daigneault may opt for a smaller starting unit against Memphis.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jaylin-williams/11287/news",
+  "pubDate": "Thu, 05 Nov 2026 23:47:44 +0000"
+ },
+ {
+  "id": "6e7bde8731327158",
+  "player": "Jaylon Tyson",
+  "team": "CLE",
+  "headline": "Jaylon Tyson (ankle) has been ruled out against the 76ers on Friday.",
+  "body": "Tyson will miss a fourth straight game. Peyton Watson (hamstring) is questionable after missing the team’s last two games. Tyrese Proctor is also questionable after starting in place of Watson on Wednesday. Proctor’s continued absence will open the door for both Proctor and Meleek Thomas to play larger roles.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jaylon-tyson/204687/news",
+  "pubDate": "Thu, 05 Nov 2026 23:47:44 +0000"
+ },
+ {
+  "id": "7acd31af51313965",
+  "player": "Tyrese Proctor",
+  "team": "CLE",
+  "headline": "Tyrese Proctor (ankle) is questionable to play against the 76ers on Friday.",
+  "body": "Proctor started on Wednesday in place of Peyton Watson, who is also questionable for this game. Proctor could get another start if either Watson or Jarrett Allen (knee) is out, though he only played 21 minutes in that role on Wednesday.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/tyrese-proctor/206150/news",
+  "pubDate": "Thu, 05 Nov 2026 23:47:44 +0000"
+ },
+ {
   "id": "e2b3f8f6bf7ac0e6",
   "player": "Peyton Watson",
   "team": "CLE",
@@ -1726,77 +1798,5 @@
   "source": "",
   "link": "https://www.nbcsports.com/nba/vit-krejci/11109/news",
   "pubDate": "Sun, 01 Nov 2026 18:37:41 +0000"
- },
- {
-  "id": "9f669f611f110775",
-  "player": "Mitchell Robinson",
-  "team": "BOS",
-  "headline": "Mitchell Robinson (rest) is out for Sunday’s game against the Magic.",
-  "body": "Boston plays on Sunday and Monday, so Robinson sitting is not a major surprise. Neemias Queta is the most likely replacement in the starting lineup, and Luka Garza’s playing time is likely to increase.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Justin Turpin",
-  "link": "https://www.nbcsports.com/nba/mitchell-robinson/10721/news",
-  "pubDate": "Sun, 01 Nov 2026 16:25:11 +0000"
- },
- {
-  "id": "ea64efbf03314ca4",
-  "player": "Kenrich Williams",
-  "team": "OKC",
-  "headline": "Kenrich Williams finished Saturday’s loss to the Rockets with 11 points (3-of-7 FGs, 2-of-2 FTs), seven rebounds, two assists and three three-pointers.",
-  "body": "After totaling 10 points in his first two starts of the season, Williams scored 11 on Saturday. He was most valuable against the Rockets in three-pointers and rebounds, but this performance doesn’t make “Kenny Hustle” a must-add heading into Oklahoma City’s four-game Week 3. Also, with the Thunder playing two games against Cleveland to start the week, it’s fair to wonder whether head coach Mark Daigneault would consider a bigger lineup to match up with Evan Mobley and Jarrett Allen. If so, Williams or Jared McCain (10/4/2/1) could be headed to the bench.",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/kenrich-williams/10782/news",
-  "pubDate": "Sun, 01 Nov 2026 06:32:26 +0000"
- },
- {
-  "id": "513fcd999272b464",
-  "player": "Isaiah Hartenstein",
-  "team": "OKC",
-  "headline": "Isaiah Hartenstein amassed 10 points (3-of-8 FGs, 4-of-4 FTs), seven rebounds and three steals in Saturday’s loss to the Rockets.",
-  "body": "With Chet Holmgren (knee) out for at least 8-10 weeks, the Thunder will rely even more on Hartenstein, Jaylin Williams (3/4/1/1) and Aday Mara (seven points, nine rebounds, three assists and four blocks) in the post. Of the three, Hartenstein is the safest option for fantasy managers, which is why he’s rostered in over 80 percent of Yahoo leagues.",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/isaiah-hartenstein/10735/news",
-  "pubDate": "Sun, 01 Nov 2026 06:32:26 +0000"
- },
- {
-  "id": "e2d7c5e806b27c0e",
-  "player": "Shai Gilgeous-Alexander",
-  "team": "OKC",
-  "headline": "Shai Gilgeous-Alexander tallied 26 points (10-of-20 FGs, 3-of-4 FTs), four rebounds, three assists, one steal and three three-pointers in Saturday’s loss to the Rockets.",
-  "body": "Since the October 25 game against the Clippers in which Oklahoma City lost Jalen Williams and Cason Wallace, Gilgeous-Alexander has shot 49.1 percent from the field and 5-of-17 from beyond the arc. Of course, the Thunder have also lost Chet Holmgren since last Sunday, which allows opposing teams to devote even more attention to slowing down SGA. Fantasy managers will hope his efficiency doesn’t take too big a hit in the weeks to come. Oklahoma City plays four games next week, starting with two against the Cavaliers on Monday (away) and Wednesday (home).",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/shai-gilgeous-alexander/10724/news",
-  "pubDate": "Sun, 01 Nov 2026 06:32:26 +0000"
- },
- {
-  "id": "4f586d66dc5360ac",
-  "player": "Alperen Şengün",
-  "team": "HOU",
-  "headline": "Alperen Şengün finished Saturday’s win over the Thunder with 16 points (6-of-17 FGs, 4-of-6 FTs), nine rebounds, nine assists and one block.",
-  "body": "Şengün returned to the Rockets lineup after sitting out Friday’s loss to the Mavericks with a sore back. He played 33 minutes and finished one rebound and one assist shy of a triple-double. Turnovers can still be an issue for Şengün at times, but he’s gotten off to a good start this season. Clint Capela, who started on Friday, recorded four rebounds and two assists in 10 minutes.",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/alperen-sengun/11100/news",
-  "pubDate": "Sun, 01 Nov 2026 06:32:26 +0000"
- },
- {
-  "id": "8410beab0506161e",
-  "player": "Marcus Smart",
-  "team": "HOU",
-  "headline": "Marcus Smart accumulated 24 points (7-of-10 FGs, 3-of-3 FTs), five rebounds, three assists, one steal and seven three-pointers in Saturday’s win over the Thunder.",
-  "body": "Smart started Saturday night, as the Rockets did not have Fred VanVleet (knee) due to injury management. The veteran guard shot 7-of-10 from beyond the arc against the Thunder and recorded his first regular-season 20-point game since March 14 against the Nuggets, when he played for the Lakers. While Smart will be a fixture in the Rockets’ rotation, his fantasy outlook hinges on VanVleet’s availability.",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/marcus-smart/10224/news",
-  "pubDate": "Sun, 01 Nov 2026 06:32:26 +0000"
  }
 ]
