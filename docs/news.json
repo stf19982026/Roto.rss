@@ -1,5 +1,17 @@
 [
  {
+  "id": "6b13ddf0c823c32c",
+  "player": "Payton Pritchard",
+  "team": "BOS",
+  "headline": "Payton Pritchard (eye) is available for Friday’s matchup with the Hornets.",
+  "body": "Pritchard will play through an eye abrasion and likely handle his typical workload. If Pritchard faces any limitations, Mike Conley could pick up some extra playing time.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/payton-pritchard/11057/news",
+  "pubDate": "Fri, 06 Nov 2026 18:29:25 +0000"
+ },
+ {
   "id": "1a7d48dbbd02e7a7",
   "player": "Stephen Curry",
   "team": "GSW",
@@ -1785,18 +1797,6 @@
   "category": "Injury",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/coby-white/00000188-9cf1-da6b-abd8-fcfd6bf901ba/news",
-  "pubDate": "Sun, 01 Nov 2026 22:26:33 +0000"
- },
- {
-  "id": "2e81818b95ac9361",
-  "player": "Isaiah Joe",
-  "team": "DET",
-  "headline": "Isaiah Joe (hip) is questionable for Monday’s game against the Hornets.",
-  "body": "Since taking a hard fall during an October 25 win over the Pistons, Joe has missed the last three games with a hip contusion. If he remains out, Kevin Huerter and Ronald Holland II may once again be asked to fill out the wing rotation.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/isaiah-joe/11025/news",
   "pubDate": "Sun, 01 Nov 2026 22:26:33 +0000"
  }
 ]
