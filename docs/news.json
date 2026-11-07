@@ -1,5 +1,17 @@
 [
  {
+  "id": "cb56200f8a925eec",
+  "player": "T.J. McConnell",
+  "team": "IND",
+  "headline": "T.J. McConnell (hamstring) is available for Saturday’s game against the Nuggets.",
+  "body": "McConnell is set to make his season debut Saturday against the Nuggets after missing the beginning of the season with a right hamstring strain. The Pacers are likely to ease him into his first game action of the year, but with Tyrese Haliburton (hamstring) out he’s going to have fantasy value when he can play more minutes.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "Pacers",
+  "link": "https://www.nbcsports.com/nba/t-j-mcconnell/10378/news",
+  "pubDate": "Sat, 07 Nov 2026 20:29:35 +0000"
+ },
+ {
   "id": "01d9e560e616df29",
   "player": "Desmond Bane",
   "team": "ORL",
@@ -1785,18 +1797,6 @@
   "category": "",
   "source": "NBA Lineups",
   "link": "https://www.nbcsports.com/nba/collin-murray-boyles/207389/news",
-  "pubDate": "Tue, 03 Nov 2026 02:36:43 +0000"
- },
- {
-  "id": "99a7bdfe2723e27f",
-  "player": "Max Christie",
-  "team": "DAL",
-  "headline": "Max Christie (hip) will not return to Monday’s game against the Kings.",
-  "body": "Christie played eight minutes before leaving Monday’s game with a right hip injury. Walter Clayton Jr. replaced him to start the third quarter, and Christie’s absence may also free up minutes for Marcus Sasser.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Grant Afseth",
-  "link": "https://www.nbcsports.com/nba/max-christie/11257/news",
   "pubDate": "Tue, 03 Nov 2026 02:36:43 +0000"
  }
 ]
