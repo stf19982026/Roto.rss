@@ -1,5 +1,41 @@
 [
  {
+  "id": "e954846cdba004b1",
+  "player": "Dalen Terry",
+  "team": "FA",
+  "headline": "Thunder waived Dalen Terry.",
+  "body": "Signed to a two-year deal on Tuesday, Terry has been waived to free up a roster spot for the recently acquired Nique Clifford. Terry’s waiver will not affect fantasy basketball or the Thunder’s rotation.",
+  "author": "Raphielle Johnson",
+  "category": "Transaction",
+  "source": "Marc Stein",
+  "link": "https://www.nbcsports.com/nba/dalen-terry/11277/news",
+  "pubDate": "Sun, 08 Nov 2026 21:57:21 +0000"
+ },
+ {
+  "id": "f898f8ca777b508f",
+  "player": "Keegan Murray",
+  "team": "SAC",
+  "headline": "Keegan Murray (ankle) is available for Sunday’s game against the Heat.",
+  "body": "Sunday’s game will be Murray’s first since October 23. It’s unclear whether his playing time will be limited, but fantasy managers shouldn’t expect to see Murray’s minutes go well into the thirties. Precious Achiuwa has been the starting power forward in Murray’s absence.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/keegan-murray/11289/news",
+  "pubDate": "Sun, 08 Nov 2026 21:57:21 +0000"
+ },
+ {
+  "id": "9f28596acae272cb",
+  "player": "Joel Embiid",
+  "team": "PHI",
+  "headline": "Joel Embiid (foot) is available for Sunday’s game against the Bulls.",
+  "body": "Embiid is set to play after the 76ers listed him as probable on the initial injury report. He’ll take on his usual role as the team’s starting center.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/joel-embiid/10488/news",
+  "pubDate": "Sun, 08 Nov 2026 21:57:21 +0000"
+ },
+ {
   "id": "7673ebe60837a52e",
   "player": "Jalen Smith",
   "team": "CHI",
@@ -1762,41 +1798,5 @@
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/jayson-tatum/10592/news",
   "pubDate": "Thu, 05 Nov 2026 22:58:58 +0000"
- },
- {
-  "id": "2dcafb3aba60b7a1",
-  "player": "Payton Pritchard",
-  "team": "BOS",
-  "headline": "Payton Pritchard (eye) is questionable to play against the Hornets on Friday.",
-  "body": "Pritchard has an eye abrasion that could prevent him from suiting up against Charlotte. Mike Conley would likely operate as the Celtics’ backup point guard if Pritchard isn’t available, though that will likely only be in a limited capacity.",
-  "author": "Noah Rubin",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/payton-pritchard/11057/news",
-  "pubDate": "Thu, 05 Nov 2026 22:58:58 +0000"
- },
- {
-  "id": "2559cd8f4650e050",
-  "player": "Brook Lopez",
-  "team": "LAC",
-  "headline": "Brook Lopez amassed 20 points (8-of-11 FGs, 2-of-5 FTs), eight rebounds, one assist, two blocks and two three-pointers in Wednesday’s loss to the Heat.",
-  "body": "After playing 22 minutes in his first start of the season on Monday, Lopez played 35 in Wednesday’s overtime thriller. Given his production in those two starts and Isaiah Jackson’s inability to avoid silly fouls, Lopez may have the starting center job for the foreseeable future. Jackson, who has committed at least four fouls in six of his eight games, played 13 minutes against the Heat and finished with two points, four rebounds, two assists and one steal.",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/brook-lopez/00000188-9cf0-da6b-abd8-fcfdc2a3016a/news",
-  "pubDate": "Thu, 05 Nov 2026 09:59:36 +0000"
- },
- {
-  "id": "04e2ee01284a923d",
-  "player": "Darius Garland",
-  "team": "LAC",
-  "headline": "Darius Garland recorded 26 points (10-of-14 FGs, 2-of-2 FTs), one rebound, seven assists and four three-pointers in Wednesday’s loss to the Heat.",
-  "body": "By now, it’s known that category-league managers rostering Garland will likely have to punt turnovers. He racked up six turnovers against the Heat, but the Clippers’ guard had his best shooting night this season. In addition to making 10 of 14 shots from the field, he recorded seven assists, making for a decent night at the office.",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/darius-garland/10867/news",
-  "pubDate": "Thu, 05 Nov 2026 09:59:36 +0000"
  }
 ]
