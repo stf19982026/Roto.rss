@@ -1,5 +1,53 @@
 [
  {
+  "id": "8cd4fc59918dabf9",
+  "player": "Scottie Barnes",
+  "team": "TOR",
+  "headline": "Scottie Barnes (adductor) and Immanuel Quickley (hamstring) were limited at Sunday’s practice and will be questionable for Monday’s game against the Grizzlies.",
+  "body": "Barnes and Quickley sat out Friday’s win over the Bucks, which led to Jakob Poeltl returning to the starting lineup and Jamal Shead filling in for Quickley. That’s likely to remain the case on Monday if Barnes and Quickley can’t play. The absences would also raise the fantasy ceilings of RJ Barrett, Ja’Kobe Walter and Collin Murray-Boyles.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "Michael Grange",
+  "link": "https://www.nbcsports.com/nba/scottie-barnes/11111/news",
+  "pubDate": "Sun, 08 Nov 2026 17:58:42 +0000"
+ },
+ {
+  "id": "5c49f0f5434ae658",
+  "player": "Joan Beringer",
+  "team": "MIN",
+  "headline": "Joan Beringer (nose) is available for Sunday’s game against the Jazz.",
+  "body": "Beringer, who fractured his nose during Friday’s win over the Pelicans, is good to go for Sunday night. His availability means Trey Lyles’ playing time will likely decrease after he logged 29 minutes on Friday.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "Minnesota Timberwolves",
+  "link": "https://www.nbcsports.com/nba/joan-beringer/277178/news",
+  "pubDate": "Sun, 08 Nov 2026 17:58:42 +0000"
+ },
+ {
+  "id": "22e91aeba6742dee",
+  "player": "Jalen Duren",
+  "team": "DET",
+  "headline": "Jalen Duren (hamstring) has been cleared to begin on-court activities and will be re-evaluated in two weeks.",
+  "body": "Duren strained his hamstring during Detroit’s second game of the season and hasn’t played since. The Pistons announced Sunday that the All-Star center is progressing in his recovery and has been cleared to begin on-court activities. Duren will be re-evaluated in two weeks. Paul Reed will remain the starting center until Duren is cleared to play.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "Detroit Pistons",
+  "link": "https://www.nbcsports.com/nba/jalen-duren/11250/news",
+  "pubDate": "Sun, 08 Nov 2026 17:58:42 +0000"
+ },
+ {
+  "id": "c88140d3b1878dcc",
+  "player": "Keyonte George",
+  "team": "UTA",
+  "headline": "Keyonte George (illness) is questionable for Sunday’s game against the Timberwolves.",
+  "body": "George is now questionable after not appearing on Utah’s initial injury report. If he can’t play, Isaiah Collier and Darryn Peterson stand to gain the most in playmaking responsibilities.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/keyonte-george/169497/news",
+  "pubDate": "Sun, 08 Nov 2026 17:58:42 +0000"
+ },
+ {
   "id": "3ef52b2d2c3180ed",
   "player": "Norman Powell",
   "team": "CHI",
@@ -1750,53 +1798,5 @@
   "source": "",
   "link": "https://www.nbcsports.com/nba/cooper-flagg/248343/news",
   "pubDate": "Thu, 05 Nov 2026 09:59:36 +0000"
- },
- {
-  "id": "8e9d082f822f97d8",
-  "player": "Kyrie Irving",
-  "team": "DAL",
-  "headline": "Kyrie Irving amassed 29 points (9-of-27 FGs, 6-of-8 FTs), seven rebounds, five assists, one steal and five three-pointers in Wednesday’s loss to the Spurs.",
-  "body": "Active after sitting out Monday’s loss to the Kings, Irving played 36 minutes in the 112-111 thriller. He had a chance to put the Mavericks ahead in the final seconds of regulation, but the shot missed. Irving has provided excellent fantasy value so far, but availability remains a concern.",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/kyrie-irving/00000188-9cf0-da6b-abd8-fcfdc2a30296/news",
-  "pubDate": "Thu, 05 Nov 2026 09:59:36 +0000"
- },
- {
-  "id": "37e7cae918872fbe",
-  "player": "Zuby Ejiofor",
-  "team": "ATL",
-  "headline": "Zuby Ejiofor got 11 points (4-of-6 FGs, 2-of-4 FTs), three rebounds, two assists, two steals, and a three in 17 minutes against the Wizards.",
-  "body": "The big man from St. John’s had an impact off the bench in this game and was a big factor in why the Hawks got big leads when the bench was in the game. Asa Newell (toe) left the game early and Jock Landale (hip) is already out, so if you wanted to stream in Zuby in deeper redraft leagues, he could have some value for rebounds. In dynasty leagues, you should be happy that he had this performance and flashed what he might be capable of with more minutes.",
-  "author": "Brian Taylor",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/zuby-ejiofor/0000019e-f8ce-df54-a1bf-fcfe31430000/news",
-  "pubDate": "Thu, 05 Nov 2026 02:52:35 +0000"
- },
- {
-  "id": "e830d9772e49b276",
-  "player": "Onyeka Okongwu",
-  "team": "ATL",
-  "headline": "Onyeka Okongwu had a good 14 points (5-of-9 FGs, 2-of-2 FTs), 16 rebounds, four assists, two steals, a block and two 3-pointers in 120-105 win over the Wizards.",
-  "body": "Okongwu has been mildly disappointing this season, so it was good to see him have a good game. He got some more stocks which have been lacking at this point. The minutes aren’t going anywhere, so he should continue to have this role barring injury. In dynasty, if he were to ever get traded, his role could be in jeopardy given the fact that he’s an undersized center who doesn’t defend at a super high level.",
-  "author": "",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/onyeka-okongwu/11003/news",
-  "pubDate": "Thu, 05 Nov 2026 02:52:35 +0000"
- },
- {
-  "id": "e7cb74ddafbd8e88",
-  "player": "Dyson Daniels",
-  "team": "ATL",
-  "headline": "Dyson Daniels put up 8 points (4-of-13 FGs), a career high 17 rebounds, and eight assists on Wednesday against the Wizards.",
-  "body": "Dyson didn’t score the ball, but he did have a career high 17 rebounds in this game. Dyson’s offense hasn’t gotten back to where it was in his third year, and the lack of a three-point shot will hinder him, but the defense has been awesome, and he’s been what you would’ve hoped for when you drafted him with most of his value coming from steals and good rebounds from a guard.",
-  "author": "Brian Taylor",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/dyson-daniels/11238/news",
-  "pubDate": "Thu, 05 Nov 2026 02:52:35 +0000"
  }
 ]
