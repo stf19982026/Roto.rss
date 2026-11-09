@@ -1,5 +1,65 @@
 [
  {
+  "id": "0c4113dc60e41b59",
+  "player": "Quentin Grimes",
+  "team": "LAL",
+  "headline": "Quentin Grimes (finger) is out for Monday’s matchup with the Hawks.",
+  "body": "Grimes sustained the injury in the fourth quarter of Sunday’s win over Detroit, and it will cost him at least one game. With Austin Reaves (illness) questionable, more minutes could be available for Collin Sexton and Jake LaRavia.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/quentin-grimes/11159/news",
+  "pubDate": "Mon, 09 Nov 2026 19:14:20 +0000"
+ },
+ {
+  "id": "6cbcd4f2efee3cdb",
+  "player": "Austin Reaves",
+  "team": "LAL",
+  "headline": "Austin Reaves (illness) is questionable for Monday’s matchup with the Hawks.",
+  "body": "Reaves - who scored 43 in Sunday’s win over Detroit - is a late addition to the injury report, and he’s in danger of sitting out the second leg of LA’s back-to-back set. With Quentin Grimes (finger) ruled out, the Lakers will be thin on the wing, meaning Collin Sexton and Jake LaRavia could enjoy additional playing time if Reaves is ultimately ruled out.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/austin-reaves/00000188-9cf1-da6b-abd8-fcfdeb4f02c7/news",
+  "pubDate": "Mon, 09 Nov 2026 19:14:20 +0000"
+ },
+ {
+  "id": "a8e73e46a58b0870",
+  "player": "Luka Dončić",
+  "team": "LAL",
+  "headline": "Luka Dončić (back) is off the injury report for Monday’s matchup with the Hawks.",
+  "body": "Luka sat out Monday with a back issue, although it may have just been precautionary since the Lakers play a Sunday-Monday back-to-back set. Austin Reaves scored a season-high 43 points in Sunday’s victory over the Pistons, but he’s now listed as questionable with an illness. Even if Reaves is available, he’s likely going to take a backseat to Dončić in the scoring department, as he’s done all season.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/luka-doncic/10716/news",
+  "pubDate": "Mon, 09 Nov 2026 19:14:20 +0000"
+ },
+ {
+  "id": "036223e871f6c7fc",
+  "player": "Moussa Diabaté",
+  "team": "CHA",
+  "headline": "Moussa Diabaté (quad) has been downgraded to doubtful for Monday’s game against the Cavaliers.",
+  "body": "Diabaté sat out Friday’s loss to Boston, and Ryan Kalkbrenner got the start. Kalkbrenner produced only four points and five rebounds across 21 minutes, while rookie Hannes Steinbach provided four points, 11 rebounds, an assist and three triples across 27 minutes off the bench. Steinbach is the preferred add, and he’s available in 98% of Yahoo! leagues.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/moussa-diabate/00000188-9cf2-da6b-abd8-fcff1973005d/news",
+  "pubDate": "Mon, 09 Nov 2026 19:14:20 +0000"
+ },
+ {
+  "id": "fe59189f4f817b77",
+  "player": "Oscar Tshiebwe",
+  "team": "HOU",
+  "headline": "Oscar Tshiebwe (illness) is out for Monday’s matchup with the Nuggets.",
+  "body": "Even with Clint Capela (ankle) and Steven Adams (soleus) both out for the last three games, Tshiebwe has only seen 12 total minutes in that span. He can remain on the waiver wire in nearly all fantasy leagues.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/oscar-tshiebwe/170265/news",
+  "pubDate": "Mon, 09 Nov 2026 19:14:20 +0000"
+ },
+ {
   "id": "c4ab0c5945cb2932",
   "player": "Keegan Murray",
   "team": "SAC",
@@ -1738,65 +1798,5 @@
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/anthony-davis/9526/news",
   "pubDate": "Fri, 06 Nov 2026 23:28:39 +0000"
- },
- {
-  "id": "a0b154db0980324b",
-  "player": "Gary Payton",
-  "team": "GSW",
-  "headline": "Gary Payton II (calf) is questionable for Saturday’s game against the Magic.",
-  "body": "Payton most recently played 10 minutes off the bench in Thursday’s win over the Heat. His absence wouldn’t affect fantasy basketball, but De’Anthony Melton and Brandon Williams could absorb the minutes.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/gary-payton-ii/10479/news",
-  "pubDate": "Fri, 06 Nov 2026 22:25:14 +0000"
- },
- {
-  "id": "b90bb4df417e527e",
-  "player": "Draymond Green",
-  "team": "GSW",
-  "headline": "Draymond Green (elbow) is questionable for Saturday’s game against the Magic.",
-  "body": "Green has an inflamed right elbow. If he can’t play on Saturday, the Warriors may turn to Georges Niang to fill the resulting void in the starting lineup.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/draymond-green/00000188-9cf0-da6b-abd8-fcfdc2a3032f/news",
-  "pubDate": "Fri, 06 Nov 2026 22:25:14 +0000"
- },
- {
-  "id": "c08e0bf5f51a436b",
-  "player": "Jalen Johnson",
-  "team": "ATL",
-  "headline": "Jalen Johnson (ankle) is out for Friday’s game against the Wizards.",
-  "body": "Johnson will miss a third straight game while recovering from a sprained left ankle. Luguentz Dort has started in the All-Star’s absence, but the production has been a mixed bag.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/jalen-johnson/11128/news",
-  "pubDate": "Fri, 06 Nov 2026 22:25:14 +0000"
- },
- {
-  "id": "408a9be58a93fe55",
-  "player": "Josh Hart",
-  "team": "NYK",
-  "headline": "Josh Hart (ankle) is out for Saturday’s game against the Cavaliers.",
-  "body": "Saturday’s game will be the second Hart has missed due to a sore right ankle. Landry Shamet replaced him in the starting lineup on Wednesday and should do so again on Saturday.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/josh-hart/10642/news",
-  "pubDate": "Fri, 06 Nov 2026 22:25:14 +0000"
- },
- {
-  "id": "9f343c011caaaf51",
-  "player": "Kristaps Porziņģis",
-  "team": "GSW",
-  "headline": "Kristaps Porziņģis announced on his official X.com page that he is stepping away from basketball.",
-  "body": "Porziņģis’ announcement notes that he is not where he wants to be at this time and is stepping away to focus on his health. Nothing changes from a fantasy perspective, as KP hasn’t played a game this season. Rookie Yaxel Lendeborg should continue to see big minutes in the frontcourt.",
-  "author": "Zak Hanshew",
-  "category": "Injury",
-  "source": "Kristaps Porzingis",
-  "link": "https://www.nbcsports.com/nba/kristaps-porzingis/10318/news",
-  "pubDate": "Fri, 06 Nov 2026 22:25:14 +0000"
  }
 ]
