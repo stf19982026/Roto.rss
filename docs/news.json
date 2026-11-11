@@ -1,5 +1,53 @@
 [
  {
+  "id": "c2a72a8e767d45bf",
+  "player": "Trey Murphy",
+  "team": "NOP",
+  "headline": "Trey Murphy (knee) is out for Wednesday’s game against the Nets.",
+  "body": "Downgraded from probable to doubtful late Wednesday morning, Murphy will miss a second straight game. Saddiq Bey started Monday’s loss to the Warriors but offered little production. However, Wednesday’s matchup should be a better one for him.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/trey-murphy-iii/11154/news",
+  "pubDate": "Wed, 11 Nov 2026 23:56:57 +0000"
+ },
+ {
+  "id": "acfcda8d4186b54d",
+  "player": "Immanuel Quickley",
+  "team": "TOR",
+  "headline": "The Raptors will start Immanuel Quickley, Ja’Kobe Walter, RJ Barrett, Collin Murray-Boyles, and Jakob Poeltl on Wednesday against the Celtics",
+  "body": "Immanuel Quickley will return to the starting lineup after returning from his hamstring injury which will send Jamal Shead back tot he bench. Shead is now more of a deeper league guy.",
+  "author": "Brian Taylor",
+  "category": "",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/immanuel-quickley/11022/news",
+  "pubDate": "Wed, 11 Nov 2026 23:56:57 +0000"
+ },
+ {
+  "id": "8dfad4627e3abb2c",
+  "player": "Luka Garza",
+  "team": "BOS",
+  "headline": "Derrick White, Baylor Scheierman, Jayson Tatum, Luka Garza and Neemias Queta will start Wednesday’s game against the Raptors.",
+  "body": "The Celtics have made two changes to the lineup that began Tuesday’s win over the 76ers. Scheierman will replace Jordan Walsh, who is available but will come off the bench. The other change is Garza, who steps in for Paul George (rest).",
+  "author": "Raphielle Johnson",
+  "category": "",
+  "source": "NBA Lineups",
+  "link": "https://www.nbcsports.com/nba/luka-garza/00000188-9cf1-da6b-abd8-fcfddfab0018/news",
+  "pubDate": "Wed, 11 Nov 2026 23:56:57 +0000"
+ },
+ {
+  "id": "6b7972eeec6690c1",
+  "player": "Jaylon Tyson",
+  "team": "CLE",
+  "headline": "Jaylon Tyson (ankle) will be available to play against the Knicks on Wednesday.",
+  "body": "Jaylon Tyson will return from his six game absence and be available for tonight’s game against the New York Knicks. He will likely be coming off the bench and providing some needed scoring. With him back, Tyrese Proctor will likely take a reduced role which will be important to note for deeper leagues.",
+  "author": "Brian Taylor",
+  "category": "Injury",
+  "source": "Danny Cunningham",
+  "link": "https://www.nbcsports.com/nba/jaylon-tyson/204687/news",
+  "pubDate": "Wed, 11 Nov 2026 23:56:57 +0000"
+ },
+ {
   "id": "4392ebe1b8033964",
   "player": "Jaylon Tyson",
   "team": "CLE",
@@ -1750,53 +1798,5 @@
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/luka-doncic/10716/news",
   "pubDate": "Sun, 08 Nov 2026 19:49:09 +0000"
- },
- {
-  "id": "8cd4fc59918dabf9",
-  "player": "Scottie Barnes",
-  "team": "TOR",
-  "headline": "Scottie Barnes (adductor) and Immanuel Quickley (hamstring) were limited at Sunday’s practice and will be questionable for Monday’s game against the Grizzlies.",
-  "body": "Barnes and Quickley sat out Friday’s win over the Bucks, which led to Jakob Poeltl returning to the starting lineup and Jamal Shead filling in for Quickley. That’s likely to remain the case on Monday if Barnes and Quickley can’t play. The absences would also raise the fantasy ceilings of RJ Barrett, Ja’Kobe Walter and Collin Murray-Boyles.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Michael Grange",
-  "link": "https://www.nbcsports.com/nba/scottie-barnes/11111/news",
-  "pubDate": "Sun, 08 Nov 2026 17:58:42 +0000"
- },
- {
-  "id": "5c49f0f5434ae658",
-  "player": "Joan Beringer",
-  "team": "MIN",
-  "headline": "Joan Beringer (nose) is available for Sunday’s game against the Jazz.",
-  "body": "Beringer, who fractured his nose during Friday’s win over the Pelicans, is good to go for Sunday night. His availability means Trey Lyles’ playing time will likely decrease after he logged 29 minutes on Friday.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Minnesota Timberwolves",
-  "link": "https://www.nbcsports.com/nba/joan-beringer/277178/news",
-  "pubDate": "Sun, 08 Nov 2026 17:58:42 +0000"
- },
- {
-  "id": "22e91aeba6742dee",
-  "player": "Jalen Duren",
-  "team": "DET",
-  "headline": "Jalen Duren (hamstring) has been cleared to begin on-court activities and will be re-evaluated in two weeks.",
-  "body": "Duren strained his hamstring during Detroit’s second game of the season and hasn’t played since. The Pistons announced Sunday that the All-Star center is progressing in his recovery and has been cleared to begin on-court activities. Duren will be re-evaluated in two weeks. Paul Reed will remain the starting center until Duren is cleared to play.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "Detroit Pistons",
-  "link": "https://www.nbcsports.com/nba/jalen-duren/11250/news",
-  "pubDate": "Sun, 08 Nov 2026 17:58:42 +0000"
- },
- {
-  "id": "c88140d3b1878dcc",
-  "player": "Keyonte George",
-  "team": "UTA",
-  "headline": "Keyonte George (illness) is questionable for Sunday’s game against the Timberwolves.",
-  "body": "George is now questionable after not appearing on Utah’s initial injury report. If he can’t play, Isaiah Collier and Darryn Peterson stand to gain the most in playmaking responsibilities.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/keyonte-george/169497/news",
-  "pubDate": "Sun, 08 Nov 2026 17:58:42 +0000"
  }
 ]
