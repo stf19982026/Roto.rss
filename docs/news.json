@@ -1,5 +1,17 @@
 [
  {
+  "id": "eefc6aa1ff21af90",
+  "player": "Austin Reaves",
+  "team": "LAL",
+  "headline": "Austin Reaves (heel) missed practice on Saturday.",
+  "body": "Reaves is dealing with a heel bruise. The 28-year-old guard missed practice Saturday, though it’s unclear if he’ll miss any game time.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "Dave McMenamin",
+  "link": "https://www.nbcsports.com/nba/austin-reaves/00000188-9cf1-da6b-abd8-fcfdeb4f02c7/news",
+  "pubDate": "Sat, 14 Nov 2026 20:38:32 +0000"
+ },
+ {
   "id": "4ca24a6ab1c9e93c",
   "player": "Jerami Grant",
   "team": "MEM",
@@ -1785,18 +1797,6 @@
   "category": "Injury",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/zach-collins/10580/news",
-  "pubDate": "Tue, 10 Nov 2026 22:34:37 +0000"
- },
- {
-  "id": "6dad3b29a49acfc5",
-  "player": "Norman Powell",
-  "team": "CHI",
-  "headline": "Norman Powell (back) is questionable for Wednesday’s game against the Spurs.",
-  "body": "Powell did not play in Sunday’s loss to the 76ers, with a shoulder injury being the reason. The veteran guard is now dealing with lower back spasms. If Powell remains out, Isaac Okoro should get another start.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/norman-powell/10359/news",
   "pubDate": "Tue, 10 Nov 2026 22:34:37 +0000"
  }
 ]
