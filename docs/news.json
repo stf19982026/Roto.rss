@@ -1,5 +1,65 @@
 [
  {
+  "id": "5eeb2772fd9307d6",
+  "player": "Austin Reaves",
+  "team": "LAL",
+  "headline": "Austin Reaves (heel) has been ruled out against the Suns on Sunday.",
+  "body": "Reaves exited early from Wednesday’s win, and he’ll remain out despite getting a few days off between games. Quentin Grimes will be back following a two-game absence and should get the starting nod with Reaves sidelined.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/austin-reaves/00000188-9cf1-da6b-abd8-fcfdeb4f02c7/news",
+  "pubDate": "Sun, 15 Nov 2026 00:20:40 +0000"
+ },
+ {
+  "id": "d533a48647d0d1d7",
+  "player": "Jerami Grant",
+  "team": "MEM",
+  "headline": "Jerami Grant (head) has been ruled out against the Nets on Saturday.",
+  "body": "Grant will be unavailable off the bench for Memphis in this game. He played 26 minutes on Friday and scored 26 minutes. They’ll likely turn to GG Jackson and Taylor Hendricks to make up for Grant’s absence.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "Grizzlies PR",
+  "link": "https://www.nbcsports.com/nba/jerami-grant/00000188-9cf0-da6b-abd8-fcfdc91d0038/news",
+  "pubDate": "Sun, 15 Nov 2026 00:20:40 +0000"
+ },
+ {
+  "id": "a65b06e237c8ebec",
+  "player": "Meleek Thomas",
+  "team": "CLE",
+  "headline": "Meleek Thomas, Tyrese Proctor, Jaylon Tyson, Mario Hezonja and Thomas Bryant will start against the Mavericks on Saturday.",
+  "body": "The Cavs played in Miami on Friday and then had flight delays (like everyone did) that prevented them from returning to Cleveland when they intended. So they’re resting the entire starting five. It will be five new starters for the Cavs, though they will all likely return to reserve roles in their next game.",
+  "author": "Noah Rubin",
+  "category": "",
+  "source": "Cleveland Cavaliers",
+  "link": "https://www.nbcsports.com/nba/meleek-thomas/0000019e-fdf4-df54-a1bf-fdf495100000/news",
+  "pubDate": "Sun, 15 Nov 2026 00:20:40 +0000"
+ },
+ {
+  "id": "f74395917f150c03",
+  "player": "Michael Porter",
+  "team": "BKN",
+  "headline": "Michael Porter Jr. (personal) has been ruled out against the Grizzlies on Saturday.",
+  "body": "MPJ was a very late addition to the injury report, and he will now be unavailable against Memphis. Chaney Johnson and Terance Mann are both candidates to replace him in the starting unit, though Danny Wolf could continue to start despite Nolan Traore’s return in place of MPJ.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "Brooklyn Nets",
+  "link": "https://www.nbcsports.com/nba/michael-porter-jr/10820/news",
+  "pubDate": "Sun, 15 Nov 2026 00:20:40 +0000"
+ },
+ {
+  "id": "5550decbb2753e7f",
+  "player": "Jaxson Hayes",
+  "team": "UTA",
+  "headline": "Jaxson Hayes (knee) has been ruled out against the Spurs on Sunday.",
+  "body": "Hayes exited early from Friday’s game against Houston, and he will remain out against San Antonio. Jusuf Nurkić is still out, which means Mo Bamba should start at center, with Kyle Filipowski filling out extra minutes off the bench.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jaxson-hayes/00000188-9cf1-da6b-abd8-fcfd6bf901d3/news",
+  "pubDate": "Sun, 15 Nov 2026 00:20:40 +0000"
+ },
+ {
   "id": "92cccd58c57557e2",
   "player": "Yves Missi",
   "team": "NOP",
@@ -1738,65 +1798,5 @@
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/giannis-antetokounmpo/10071/news",
   "pubDate": "Wed, 11 Nov 2026 02:14:56 +0000"
- },
- {
-  "id": "8419fa5cecab2be0",
-  "player": "Ryan Rollins",
-  "team": "MIL",
-  "headline": "Ryan Rollins, Brayden Burries, Jaime Jaquez Jr., Kyle Kuzma and Myles Turner will start Tuesday’s game against the Knicks.",
-  "body": "The Bucks won’t have Tyler Herro for Tuesday’s game, as he’s out with a leg injury. Rollins returns to the starting lineup for the first time since Halloween, which raises his short-term fantasy ceiling.",
-  "author": "Raphielle Johnson",
-  "category": "",
-  "source": "Milwaukee Bucks",
-  "link": "https://www.nbcsports.com/nba/ryan-rollins/11283/news",
-  "pubDate": "Wed, 11 Nov 2026 02:14:56 +0000"
- },
- {
-  "id": "6b78eb0edcb77dd8",
-  "player": "Zion Williamson",
-  "team": "NOP",
-  "headline": "Zion Williamson (rest) is not on the injury report for Wednesday’s game against the Nets.",
-  "body": "Williamson did not play in Monday’s loss to the Warriors, with Saddiq Bey replacing him in the starting lineup. Zion’s return means that Bey will come off the bench.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/zion-williamson/10876/news",
-  "pubDate": "Wed, 11 Nov 2026 02:14:56 +0000"
- },
- {
-  "id": "2d93dcf8325b2c60",
-  "player": "Kel'el Ware",
-  "team": "MIL",
-  "headline": "Kel’el Ware (ankle) is available for Wednesday’s game against the Knicks.",
-  "body": "Added to the Bucks’ injury report Tuesday afternoon, Ware is good to go. He’ll take on his usual backup center role, which limits the 7-footer’s fantasy ceiling.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/kelel-ware/206367/news",
-  "pubDate": "Tue, 10 Nov 2026 23:38:27 +0000"
- },
- {
-  "id": "2813582d84dc5d87",
-  "player": "Tyler Herro",
-  "team": "MIL",
-  "headline": "Tyler Herro (leg) is out for Tuesday’s game against the Knicks.",
-  "body": "Herro injured his leg during Sunday’s loss to the Celtics and will not play on Tuesday. Herro’s absence could mean Ryan Rollins returns to the starting lineup, raising his fantasy ceiling.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/tyler-herro/10868/news",
-  "pubDate": "Tue, 10 Nov 2026 23:38:27 +0000"
- },
- {
-  "id": "ac95515f0496760f",
-  "player": "Quentin Grimes",
-  "team": "LAL",
-  "headline": "Quentin Grimes (finger) is questionable for Wednesday’s game against the Bucks.",
-  "body": "Grimes injured a finger on his right hand during Sunday’s win over the Pistons and did not play the following night against the Hawks. If he can play on Wednesday, Grimes will return to his usual reserve role.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/quentin-grimes/11159/news",
-  "pubDate": "Tue, 10 Nov 2026 23:38:27 +0000"
  }
 ]
