@@ -1,5 +1,41 @@
 [
  {
+  "id": "3df57194e26734a8",
+  "player": "Amen Thompson",
+  "team": "HOU",
+  "headline": "Amen Thompson (knee) is questionable for Monday’s matchup with the Heat.",
+  "body": "Thompson is dealing with left knee soreness, and it could keep him sidelined for the second leg of a back-to-back set. If Thompson is ultimately ruled out, Tari Eason could replace him in the starting lineup, with more minutes available for Reed Sheppard.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/amen-thompson/169490/news",
+  "pubDate": "Mon, 16 Nov 2026 19:52:39 +0000"
+ },
+ {
+  "id": "2730580ab19fa92a",
+  "player": "Jaylon Tyson",
+  "team": "CLE",
+  "headline": "Jaylon Tyson (ankle) has been downgraded to doubtful for Monday’s matchup with the Bulls.",
+  "body": "Tyson will miss his seventh game of the season, and that should open the door for Meleek Thomas and Tyrese Proctor to take on expanded roles in a favorable matchup with Chicago’s lackluster defense.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/jaylon-tyson/204687/news",
+  "pubDate": "Mon, 16 Nov 2026 19:52:39 +0000"
+ },
+ {
+  "id": "dbc247b6dbecbe14",
+  "player": "Gregory Jackson",
+  "team": "MEM",
+  "headline": "According to the Memphis Grizzlies PR official X.com account, GG Jackson suffered a broken left metatarsal in his right foot and will undergo surgery.",
+  "body": "A timeline for Jackson’s return will be provided following the surgery. In Jackson’s absence, Taylor Hendricks and Jerami Grant (head) should see additional playing time.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "Grizzlies PR",
+  "link": "https://www.nbcsports.com/nba/gregory-jackson/169499/news",
+  "pubDate": "Mon, 16 Nov 2026 19:52:39 +0000"
+ },
+ {
   "id": "cf76faf930e3e348",
   "player": "Domantas Sabonis",
   "team": "SAC",
@@ -1762,41 +1798,5 @@
   "source": "Derek Bodner",
   "link": "https://www.nbcsports.com/nba/joel-embiid/10488/news",
   "pubDate": "Fri, 13 Nov 2026 01:34:33 +0000"
- },
- {
-  "id": "c25efc4730fd9194",
-  "player": "Morez Johnson",
-  "team": "DAL",
-  "headline": "Morez Johnson Jr. (shin) is available to play against the Timberwolves on Thursday.",
-  "body": "Johnson will be back following a one-game absence. That allowed Santi Aldama to take on a larger role off the bench. With Johnson back, both players will need minutes, which will likely limit the fantasy impact of both players.",
-  "author": "Noah Rubin",
-  "category": "Injury",
-  "source": "Mavs PR",
-  "link": "https://www.nbcsports.com/nba/morez-johnson/0000019e-f8cd-df54-a1bf-fcfdedde0000/news",
-  "pubDate": "Fri, 13 Nov 2026 01:34:33 +0000"
- },
- {
-  "id": "4da08226fd00fdf1",
-  "player": "Bryce McGowens",
-  "team": "NOP",
-  "headline": "Bryce McGowens (elbow) is doubtful to play against the Grizzlies on Friday.",
-  "body": "McGowens has taken on extra minutes over the last two games, but he hasn’t been part of the Pelicans’ rotation for most of the year. His absence won’t open the door for anyone to step into legit minutes.",
-  "author": "Noah Rubin",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/bryce-mcgowens/11265/news",
-  "pubDate": "Thu, 12 Nov 2026 21:13:12 +0000"
- },
- {
-  "id": "0d00e5dc33c56918",
-  "player": "Maxime Raynaud",
-  "team": "SAC",
-  "headline": "Kings insider James Ham reports that Maxime Raynaud (knee) is progressing but has no official timeline to return.",
-  "body": "The backup big man has yet to make his season debut, but until he returns, Dylan Cardwell and Precious Achiuwa should continue to pickup the slack in the frontcourt.",
-  "author": "Zak Hanshew",
-  "category": "Injury",
-  "source": "James Ham",
-  "link": "https://www.nbcsports.com/nba/maxime-raynaud/204517/news",
-  "pubDate": "Thu, 12 Nov 2026 21:13:12 +0000"
  }
 ]
