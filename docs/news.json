@@ -1,5 +1,29 @@
 [
  {
+  "id": "700fc00d239f6787",
+  "player": "Scottie Barnes",
+  "team": "TOR",
+  "headline": "Scottie Barnes (illness) is questionable for Monday’s matchup with the Knicks.",
+  "body": "Barnes is a late addition to the injury report due to an illness, which doesn’t bode well for his availability. If Barnes is sidelined, Collin Murray-Boyles could replace him in the starting five.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/scottie-barnes/11111/news",
+  "pubDate": "Tue, 17 Nov 2026 19:52:01 +0000"
+ },
+ {
+  "id": "2ec9a72ef98fe971",
+  "player": "Duncan Robinson",
+  "team": "DET",
+  "headline": "According to the Pistons PR official X.com account, Duncan Robinson sustained a left quad strain in Saturday’s loss to the Heat, and he will be re-evaluated in a week.",
+  "body": "Robinson’s absence should mean more run for Kevin Huerter, who has already seen a big boost in playing time and production across his last four games. Huerter is worth adding in all formats.",
+  "author": "Zak Hanshew",
+  "category": "Injury",
+  "source": "Pistons",
+  "link": "https://www.nbcsports.com/nba/duncan-robinson/10767/news",
+  "pubDate": "Tue, 17 Nov 2026 19:52:01 +0000"
+ },
+ {
   "id": "2ea32a31dd70c149",
   "player": "Aaron Gordon",
   "team": "DEN",
@@ -1773,30 +1797,6 @@
   "category": "Injury",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/tarik-biberovic/169516/news",
-  "pubDate": "Fri, 13 Nov 2026 22:14:42 +0000"
- },
- {
-  "id": "789a2f5708f34202",
-  "player": "Morez Johnson",
-  "team": "DAL",
-  "headline": "Morez Johnson Jr. (shin) is probable for Saturday’s game against the Cavaliers.",
-  "body": "Johnson played 13 minutes off the bench in Thursday’s loss to the Timberwolves. If available on Saturday, the rookie will likely take on a similar role.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/morez-johnson/0000019e-f8cd-df54-a1bf-fcfdedde0000/news",
-  "pubDate": "Fri, 13 Nov 2026 22:14:42 +0000"
- },
- {
-  "id": "47d28c019621ddfd",
-  "player": "Max Christie",
-  "team": "DAL",
-  "headline": "Max Christie (ankle) is questionable for Saturday’s game against the Cavaliers.",
-  "body": "Christie is back on the injury report, this time due to a sprained left ankle. After beginning the season as a starter, he’s played limited minutes over the last five games. Caleb Martin has started Dallas’ last four games and should retain that role, regardless of what happens with Christie.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/max-christie/11257/news",
   "pubDate": "Fri, 13 Nov 2026 22:14:42 +0000"
  }
 ]
