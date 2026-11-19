@@ -1,5 +1,29 @@
 [
  {
+  "id": "121d69a8133ea96d",
+  "player": "Marcus Smart",
+  "team": "HOU",
+  "headline": "Marcus Smart (suspension) finished Wednesday’s win over the Pacers with four points (1-of-4 FGs, 1-of-2 FTs), two rebounds, four assists, one steal, one block and one three-pointer.",
+  "body": "After serving a three-game suspension for throwing a punch at Warriors center Charles Bassey, Smart returned to the Rockets’ rotation on Wednesday. He took on his usual bench role, which offers little fantasy value when Fred VanVleet and Reed Sheppard are available. Fantasy managers can leave Smart on the waiver wire, as he’s scored in double figures twice in 10 games this season.",
+  "author": "Raphielle Johnson",
+  "category": "Recap",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/marcus-smart/10224/news",
+  "pubDate": "Thu, 19 Nov 2026 16:49:12 +0000"
+ },
+ {
+  "id": "089892f57ff22df6",
+  "player": "Jaxson Hayes",
+  "team": "UTA",
+  "headline": "Jaxson Hayes (knee) finished Wednesday’s win over the Lakers with six points (2-of-5 FGs, 2-of-2 FTs), seven rebounds, two assists, two steals and two blocks.",
+  "body": "Available after a two-game absence, Hayes came off the bench on Wednesday night. However, he still played more than starter Mo Bamba, who logged 22 minutes and finished with six points, 16 rebounds, one steal and two blocks. With that minutes split in Hayes’ first game back, it may not take him long to move into the starting lineup.",
+  "author": "Raphielle Johnson",
+  "category": "Recap",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/jaxson-hayes/00000188-9cf1-da6b-abd8-fcfd6bf901d3/news",
+  "pubDate": "Thu, 19 Nov 2026 16:49:12 +0000"
+ },
+ {
   "id": "5e843072df7339ee",
   "player": "Walker Kessler",
   "team": "LAL",
@@ -1773,30 +1797,6 @@
   "category": "Transaction",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/adou-thiero/206489/news",
-  "pubDate": "Sun, 15 Nov 2026 19:59:24 +0000"
- },
- {
-  "id": "17750684ce7b61cd",
-  "player": "Collin Sexton",
-  "team": "LAL",
-  "headline": "Collin Sexton (eye) is available for Sunday’s game against the Suns.",
-  "body": "Sexton is good to go after initially being listed as questionable. With Austin Reaves (heel), Sexton should get additional minutes, even though he’ll likely come off the bench.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/collin-sexton/10727/news",
-  "pubDate": "Sun, 15 Nov 2026 19:59:24 +0000"
- },
- {
-  "id": "914f7a421eb6afcf",
-  "player": "Bronny James",
-  "team": "LAL",
-  "headline": "Bronny James (illness) is available for Sunday’s game against the Suns.",
-  "body": "James hasn’t been in the Lakers’ rotation for most games. That’s unlikely to change on Sunday, even with Austin Reaves (heel) unavailable.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/bronny-james/207874/news",
   "pubDate": "Sun, 15 Nov 2026 19:59:24 +0000"
  }
 ]
