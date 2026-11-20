@@ -1,5 +1,29 @@
 [
  {
+  "id": "57f11edefdf0cbf4",
+  "player": "Ron Holland",
+  "team": "DET",
+  "headline": "Ron Holland (knee) is doubtful for Friday’s game against the Raptors.",
+  "body": "Holland is unlikely to suit up Friday as he’s listed as doubtful with a left knee contusion. The 21-year-old forward was present at shootaround Friday, which is a good sign that the injury isn’t overly serious. Holland’s likely absence Friday won’t impact fantasy basketball.",
+  "author": "Nick Shlain",
+  "category": "",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/ron/0000018a-6dae-da32-a58f-6fff04400000/news",
+  "pubDate": "Fri, 20 Nov 2026 18:28:47 +0000"
+ },
+ {
+  "id": "dbfa380b001f4e17",
+  "player": "Jalen Smith",
+  "team": "CHI",
+  "headline": "Jalen Smith (illness) is questionable for Friday’s game against the Wizards.",
+  "body": "Smith popped up on the injury report Friday as questionable with an illness. He’s potentially on the wrong side of questionable given that he only has a few hours to recover before the game. If the 26-year-old forward is ruled out, Nic Claxton could move into the starting lineup.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/jalen-smith/11028/news",
+  "pubDate": "Fri, 20 Nov 2026 18:28:47 +0000"
+ },
+ {
   "id": "0a568fa60cbb8e39",
   "player": "Stephon Castle",
   "team": "SAS",
@@ -1774,29 +1798,5 @@
   "source": "NBA Lineups",
   "link": "https://www.nbcsports.com/nba/tyrese-proctor/206150/news",
   "pubDate": "Mon, 16 Nov 2026 23:52:09 +0000"
- },
- {
-  "id": "3df57194e26734a8",
-  "player": "Amen Thompson",
-  "team": "HOU",
-  "headline": "Amen Thompson (knee) is questionable for Monday’s matchup with the Heat.",
-  "body": "Thompson is dealing with left knee soreness, and it could keep him sidelined for the second leg of a back-to-back set. If Thompson is ultimately ruled out, Tari Eason could replace him in the starting lineup, with more minutes available for Reed Sheppard.",
-  "author": "Zak Hanshew",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/amen-thompson/169490/news",
-  "pubDate": "Mon, 16 Nov 2026 19:52:39 +0000"
- },
- {
-  "id": "2730580ab19fa92a",
-  "player": "Jaylon Tyson",
-  "team": "CLE",
-  "headline": "Jaylon Tyson (ankle) has been downgraded to doubtful for Monday’s matchup with the Bulls.",
-  "body": "Tyson will miss his seventh game of the season, and that should open the door for Meleek Thomas and Tyrese Proctor to take on expanded roles in a favorable matchup with Chicago’s lackluster defense.",
-  "author": "Zak Hanshew",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/jaylon-tyson/204687/news",
-  "pubDate": "Mon, 16 Nov 2026 19:52:39 +0000"
  }
 ]
