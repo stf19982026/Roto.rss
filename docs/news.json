@@ -1,5 +1,29 @@
 [
  {
+  "id": "962e9488d8e7a433",
+  "player": "Karl-Anthony Towns",
+  "team": "NYK",
+  "headline": "Karl-Anthony Towns (illness) is questionable for Saturday’s game against the Trail Blazers.",
+  "body": "Towns is a new addition to the Knicks’ injury report, and that’s generally not a good sign. If he can’t play, the Knicks will have to rely on Andre Drummond and James Wiseman to fill the void.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/karl-anthony-towns/10334/news",
+  "pubDate": "Sat, 21 Nov 2026 16:24:44 +0000"
+ },
+ {
+  "id": "07e542d57c9b5a9b",
+  "player": "OG Anunoby",
+  "team": "NYK",
+  "headline": "OG Anunoby (calf) is now doubtful for Saturday’s game against the Trail Blazers.",
+  "body": "Initially questionable for Saturday’s game, Anunoby is trending toward not playing. If he can’t play, Landry Shamet will likely enter the starting lineup, with Josh Hart sliding down to power forward.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/og-anunoby/10598/news",
+  "pubDate": "Sat, 21 Nov 2026 16:24:44 +0000"
+ },
+ {
   "id": "9d8ac307f0775889",
   "player": "Jabari Smith",
   "team": "HOU",
@@ -1773,30 +1797,6 @@
   "category": "Injury",
   "source": "Esfandiar Baraheni",
   "link": "https://www.nbcsports.com/nba/scottie-barnes/11111/news",
-  "pubDate": "Tue, 17 Nov 2026 23:49:56 +0000"
- },
- {
-  "id": "bedb44021a6b7516",
-  "player": "Tobi Lawal",
-  "team": "DAL",
-  "headline": "Tobi Lawal (groin) is doubtful for Wednesday’s game against the Warriors.",
-  "body": "Due to right groin tightness, Lawal is trending toward not being available for Wednesday’s game. However, with Santi Aldama (ankle) on track to return, Lawal’s absence would not affect the Mavericks’ rotation.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/tobi-lawal/0000019e-fdf4-df54-a1bf-fdf45c450000/news",
-  "pubDate": "Tue, 17 Nov 2026 23:49:56 +0000"
- },
- {
-  "id": "8bd84462a8f53b44",
-  "player": "Walter Clayton",
-  "team": "DAL",
-  "headline": "Walter Clayton Jr. (ankle) is probable for Wednesday’s game against the Warriors.",
-  "body": "Clayton, who played 23 minutes in Sunday’s loss to the Celtics, is dealing with a sprained right ankle. However, the probable tag suggests that he’s more likely to play on Wednesday than not. The Mavericks will have Kyrie Irving, and his availability limits Clayton’s ceiling, even if he remains in the rotation.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/walter-clayton-jr/205170/news",
   "pubDate": "Tue, 17 Nov 2026 23:49:56 +0000"
  }
 ]
