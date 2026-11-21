@@ -1,5 +1,17 @@
 [
  {
+  "id": "3b59717146005381",
+  "player": "Precious Achiuwa",
+  "team": "SAC",
+  "headline": "Precious Achiuwa (leg) is questionable for Saturday’s game against the Celtics.",
+  "body": "Achiuwa did not play in Friday’s loss to the Lakers, and his absence contributed to Keegan Murray playing 39 minutes. Murray’s playing time may decrease if Achiuwa plays, but not by much.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/precious-achiuwa/11009/news",
+  "pubDate": "Sat, 21 Nov 2026 21:44:25 +0000"
+ },
+ {
   "id": "dbfd487037f0651c",
   "player": "Myles Turner",
   "team": "MIL",
@@ -1785,18 +1797,6 @@
   "category": "",
   "source": "NBA Lineups",
   "link": "https://www.nbcsports.com/nba/cody-williams/208355/news",
-  "pubDate": "Wed, 18 Nov 2026 01:55:31 +0000"
- },
- {
-  "id": "ebbe5e9e68fd4a5c",
-  "player": "De'Andre Hunter",
-  "team": "SAC",
-  "headline": "De’Andre Hunter (hip) is questionable for Wednesday’s game against the Suns.",
-  "body": "A late addition to the Kings’ injury report, Hunter did not play in Sunday’s loss to the Thunder. Dylan Cardwell replaced him in the starting lineup, with Keegan Murray moving to small forward. Expect the same on Wednesday if Hunter can’t play.",
-  "author": "Raphielle Johnson",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/deandre-hunter/10905/news",
   "pubDate": "Wed, 18 Nov 2026 01:55:31 +0000"
  }
 ]
