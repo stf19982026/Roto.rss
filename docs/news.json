@@ -1,5 +1,17 @@
 [
  {
+  "id": "59214cfe077c84b5",
+  "player": "Norman Powell",
+  "team": "CHI",
+  "headline": "Norman Powell has been diagnosed with a right hamstring strain and will be re-evaluated later this week.",
+  "body": "Powell was initially listed as questionable to play on Sunday but is now officially out. This likely also means he will miss the Bulls’ games on Monday and Wednesday as well, which will open up a starting spot. Patrick Williams and Buddy Hield should both see expanded roles, with one of them likely to start.",
+  "author": "Noah Rubin",
+  "category": "Injury",
+  "source": "Chicago Bulls",
+  "link": "https://www.nbcsports.com/nba/norman-powell/10359/news",
+  "pubDate": "Sun, 22 Nov 2026 16:39:11 +0000"
+ },
+ {
   "id": "01ce1772682d662a",
   "player": "Darius Acuff",
   "team": "SAC",
@@ -1785,18 +1797,6 @@
   "category": "Injury",
   "source": "NBA Injury Report",
   "link": "https://www.nbcsports.com/nba/isaiah-joe/11025/news",
-  "pubDate": "Wed, 18 Nov 2026 22:15:23 +0000"
- },
- {
-  "id": "e866a148e7954856",
-  "player": "Peyton Watson",
-  "team": "CLE",
-  "headline": "Peyton Watson (back) has been downgraded to doubtful for Wednesday’s matchup with Memphis.",
-  "body": "Watson played Monday, but he’s expected to sit out while dealing with a lower-back contusion. In his absence, Meleek Thomas and Mario Hezonja should see more playing time.",
-  "author": "Zak Hanshew",
-  "category": "",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/peyton-watson/11259/news",
   "pubDate": "Wed, 18 Nov 2026 22:15:23 +0000"
  }
 ]
