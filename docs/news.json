@@ -1,5 +1,17 @@
 [
  {
+  "id": "865a972f9ef8be74",
+  "player": "Precious Achiuwa",
+  "team": "SAC",
+  "headline": "Precious Achiuwa (leg) is available for Saturday’s game against the Celtics.",
+  "body": "Achiuwa is back after sitting out Friday’s loss to the Lakers. His return may mean Keegan Murray doesn’t have to play as much as he did on Friday, when he logged 39 minutes.",
+  "author": "Raphielle Johnson",
+  "category": "Injury",
+  "source": "NBA Injury Report",
+  "link": "https://www.nbcsports.com/nba/precious-achiuwa/11009/news",
+  "pubDate": "Sun, 22 Nov 2026 01:36:58 +0000"
+ },
+ {
   "id": "4dd8fca810400e27",
   "player": "Derik Queen",
   "team": "NOP",
@@ -1785,18 +1797,6 @@
   "category": "Recap",
   "source": "",
   "link": "https://www.nbcsports.com/nba/damian-lillard/9612/news",
-  "pubDate": "Wed, 18 Nov 2026 05:19:45 +0000"
- },
- {
-  "id": "8fc151a174d8f7fb",
-  "player": "LaMelo Ball",
-  "team": "MIN",
-  "headline": "LaMelo Ball recorded 18 points (7-of-17 FGs, 1-of-1 FTs), nine rebounds, two assists, one steal and three three-pointers in Tuesday’s win over the Trail Blazers.",
-  "body": "After recording at least five assists in five straight games, Ball had two in the Timberwolves’ two games against Portland. The good news for the Timberwolves was that they won both games, but that low assist number was a surprise. Ball finished Tuesday’s win one rebound shy of a double-double, offering unexpected value in that category. Even with the recent low assist numbers, field-goal percentage and turnovers remain Ball’s biggest issues in category leagues.",
-  "author": "Raphielle Johnson",
-  "category": "Recap",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/lamelo-ball/10996/news",
   "pubDate": "Wed, 18 Nov 2026 05:19:45 +0000"
  }
 ]
