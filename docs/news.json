@@ -1,5 +1,29 @@
 [
  {
+  "id": "3e7e77fc5d5e4a7d",
+  "player": "Giannis Antetokounmpo",
+  "team": "MIA",
+  "headline": "Giannis Antetokounmpo (groin) is probable for Wednesday’s game against the 76ers.",
+  "body": "Antetokounmpo was upgraded to probable and thus is likely to suit up against the 76ers Wednesday, which is great news for fantasy managers. The 31-year-old forward missed Sunday’s game against the Thunder with right groin tendonitis. Bobby Portis will head back to the bench with Antetokounmpo in the starting lineup.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/giannis-antetokounmpo/10071/news",
+  "pubDate": "Wed, 25 Nov 2026 20:43:02 +0000"
+ },
+ {
+  "id": "efbf22167e1e1f56",
+  "player": "Joel Embiid",
+  "team": "PHI",
+  "headline": "Joel Embiid (illness) is out for Wednesday’s game against the Heat.",
+  "body": "No surprise here as Embiid was ruled out after he was initially listed as doubtful with an illness. Jabari Walker should start again in his absence. Walker had 10 points, five rebounds, two assists and one steal in 20 minutes in Monday’s loss to the Trail Blazers.",
+  "author": "Nick Shlain",
+  "category": "Injury",
+  "source": "",
+  "link": "https://www.nbcsports.com/nba/joel-embiid/10488/news",
+  "pubDate": "Wed, 25 Nov 2026 20:43:02 +0000"
+ },
+ {
   "id": "40e1b1271865d393",
   "player": "Kevin Porter",
   "team": "ORL",
@@ -1773,30 +1797,6 @@
   "category": "",
   "source": "",
   "link": "https://www.nbcsports.com/nba/danny-wolf/206536/news",
-  "pubDate": "Sat, 21 Nov 2026 00:09:08 +0000"
- },
- {
-  "id": "8b1744996c80a2ea",
-  "player": "Noa Essengue",
-  "team": "CHI",
-  "headline": "Noa Essengue (wrist) will be available to play Friday against the Wizards.",
-  "body": "Noa was listed as probable before this game, so it’s good to see that he’s giving it a go. Hopefully it doesn’t flare up and have him miss some time. Noa is just a deeper league guy, even with the Caleb Wilson injury.",
-  "author": "Brian Taylor",
-  "category": "Injury",
-  "source": "",
-  "link": "https://www.nbcsports.com/nba/noa-essengue/277180/news",
-  "pubDate": "Sat, 21 Nov 2026 00:09:08 +0000"
- },
- {
-  "id": "e9b2aa4b03b4c93a",
-  "player": "T.J. McConnell",
-  "team": "IND",
-  "headline": "T.J. McConnell (hamstring) is available to play against the Cavaliers on Friday.",
-  "body": "McConnell was initially listed as probable for this game, so his availability doesn’t come as a surprise. He continues to pop up on the injury report, but he hasn’t missed a game since he made his season debut two weeks ago. He may lose a few minutes with Andrew Nembhard back.",
-  "author": "Noah Rubin",
-  "category": "Injury",
-  "source": "NBA Injury Report",
-  "link": "https://www.nbcsports.com/nba/t-j-mcconnell/10378/news",
   "pubDate": "Sat, 21 Nov 2026 00:09:08 +0000"
  }
 ]
